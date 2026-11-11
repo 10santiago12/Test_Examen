@@ -1,0 +1,9 @@
+pages/
+*.docx
+*.pdf
+*.pkl
+doc.txt
+manual.txt
+ocr.txt
+ocrbox.txt
+montage.jpg

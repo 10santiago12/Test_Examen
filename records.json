@@ -1,0 +1,9203 @@
+{
+"I": [
+{
+"options": [
+[
+"A",
+"A la policía judicial"
+],
+[
+"B",
+"A la policía o agente de tránsito"
+],
+[
+"C",
+"A los centros de conciliación"
+],
+[
+"D",
+"A la superintendencia de puertos y transporte"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Las autoridades de tránsito"
+],
+[
+"B",
+"Las autoridades judiciales"
+],
+[
+"C",
+"Las aseguradoras"
+],
+[
+"D",
+"El Ministerio de Transporte"
+],
+[
+"E",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"La policía de tránsito municipal"
+],
+[
+"B",
+"Las autoridades ambientales locales"
+],
+[
+"C",
+"Las autoridades ambientales de la localidad en coordinación con las autoridades de tránsito"
+],
+[
+"D",
+"La Respuesta A y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Un documento público que identifica un vehículo automotor, acredita su propiedad e identifica a su propietario y autoriza a dicho vehículo para circular por las vías públicas y por las privadas abiertas al público"
+],
+[
+"B",
+"Un documento público de carácter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducción de vehículos con validez en todo el territorio nacional"
+],
+[
+"C",
+"Un documento público con validez en todo el territorio nacional, el cuál identifica externa y privativamente un vehículo."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"El Ministerio de Transporte"
+],
+[
+"B",
+"Los Organismos de Tránsito de la localidad"
+],
+[
+"C",
+"Los Centros de Enseñanza Automovilística (CEA)"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Nombre completo del conductor, número del documento de identificación, fecha de nacimiento, tipo de sangre, fecha de expedición, restricciones del conductor, categorías autorizadas, organismo que la expidió, Código de Barras, huella digital y fotografía."
+],
+[
+"B",
+"Nombre del conductor, número del documento de identificación, fecha de expedición."
+],
+[
+"C",
+"Nombre completo del conductor, número del documento de identificación, fecha de expedición y organismo que la expidió."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Dieciocho (18) años cumplidos"
+],
+[
+"B",
+"Veinte (20) años cumplidos"
+],
+[
+"C",
+"Dieciséis (16) años cumplidos"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Veinte (20) años cumplidos"
+],
+[
+"B",
+"Dieciséis (16) años cumplidos"
+],
+[
+"C",
+"Dieciocho (18) años cumplidos"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Saber leer y escribir"
+],
+[
+"B",
+"Aprobar un examen teórico-práctico de conducción para vehículos particulares que realizarán los organismos de tránsito, o presentar un certificado de aptitud en conducción otorgado por un Centro de Enseñanza Automovilística aprobado por el Ministerio de Transporte"
+],
+[
+"C",
+"Ser propietario de un vehículo."
+],
+[
+"D",
+"Certificado de actitud física, mental y coordinación motriz para conducir otorgado por un Centro de Reconocimiento para Conductores (CRC) aprobado por el RUNT."
+],
+[
+"E",
+"La Respuesta A, B y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Dos (3) años contados a partir la fecha de su expedición"
+],
+[
+"B",
+"Cinco (5) años contados a partir de la fecha de su expedición"
+],
+[
+"C",
+"Diez (10) años contados a partir de la fecha de su expedición"
+],
+[
+"D",
+"Tiempo indefinido contado a partir de su expedición."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El Tiempo de vigencia lo establece el Resultado de los Exámenes Médicos aplicados en el CRC."
+],
+[
+"B",
+"Un (1) año contado a partir la fecha de su expedición"
+],
+[
+"C",
+"Tres (3) años contados a partir la fecha de su expedición"
+],
+[
+"D",
+"Cinco (5) años contados a partir de la fecha su expedición"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Trámite mediante el cual un conductor autorizado para conducir vehículos de servicio particular, solicita ante un Organismo de Tránsito, la expedición de una licencia de conducción para servicio público"
+],
+[
+"B",
+"Trámite mediante el cual una persona ya autorizada para conducir un determinado tipo de vehículo, solicita ante un Organismo de Tránsito, la expedición de una licencia de conducción de una categoría superior, acreditando los requisitos estipulados en la normatividad vigente."
+],
+[
+"C",
+"Trámite mediante el cual un conductor autorizado para conducir un determinado tipo de vehículo en el territorio nacional, solicita al organismo de tránsito, la expedición de una nueva licencia de conducción por perdida o deterioro del documento."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Treinta (30) días hábiles contados a partir de la fecha de su solicitud"
+],
+[
+"B",
+"Ocho (8) días hábiles contados a partir de la fecha de su solicitud"
+],
+[
+"C",
+"Tres (3) días hábiles contados a partir de la fecha de su solicitud"
+],
+[
+"D",
+"Veinticuatro (24) horas contadas a partir de la fecha de su solicitud"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Tener una licencia de conducción registrada ante el RUNT."
+],
+[
+"B",
+"Acreditar mínimo dos 2 años de experiencia en conducción de vehículos en otra categoría"
+],
+[
+"C",
+"Presentar y aprobar un nuevo examen teórico-práctico para la categoría solicitada"
+],
+[
+"D",
+"Presentar un certificado de aptitud en conducción, otorgado por el centro respectivo"
+],
+[
+"E",
+"La Respuesta A, C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Portan Licencia de conducción internacional"
+],
+[
+"B",
+"Portan Licencia de conducción expedida en Colombia"
+],
+[
+"C",
+"Portan Licencia de conducción vigente expedida por su país de origen"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cuenten con un vehículo acondicionado con elementos ortopédicos o mecanismos auxiliares para su Discapacidad"
+],
+[
+"B",
+"Demuestren mediante certificación medica que se encuentra habilitado y adiestrado para conducir con la Discapacidad"
+],
+[
+"C",
+"Cuando demuestre estar capacitado para el ejercicio de la conducción"
+],
+[
+"D",
+"La Respuesta A, B y D, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"En el Organismo de Tránsito donde se la expidieron inicialmente."
+],
+[
+"B",
+"Ante la Policía de Tránsito de la localidad"
+],
+[
+"C",
+"En cualquier Centro de Enseñanza Automovilística u Organismo de Tránsito de orden departamental, municipal o distrital autorizado por el Ministerio de transporte."
+],
+[
+"D",
+"Ante el Ministerio de Transporte"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El Color"
+],
+[
+"B",
+"La categoría"
+],
+[
+"C",
+"El costo"
+],
+[
+"D",
+"La vigencia"
+],
+[
+"E",
+"La Respuesta B, C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Cuando ocurra un accidente"
+],
+[
+"B",
+"Cuando el conductor infrinja una norma de tránsito"
+],
+[
+"C",
+"Cuando el conductor este bajo estado de embriaguez"
+],
+[
+"D",
+"En ningún caso, sólo la puede suspender o cancelar una decisión judicial."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Por deterioro del documento"
+],
+[
+"B",
+"Por disposición de las autoridades de tránsito, basada en imposibilidad transitoria física o mental para conducir, soportado en un certificado médico"
+],
+[
+"C",
+"Por decisión judicial"
+],
+[
+"D",
+"Por encontrarse en flagrante estado de embriaguez o bajo el efecto de drogas alucinógenas determinado por autoridad competente"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Por reincidir en la violación de la misma norma de tránsito en un período no superior a un año"
+],
+[
+"B",
+"Por no estar registrada ante el RUNT ( Registro Único Nacional de Tránsito)"
+],
+[
+"C",
+"Por no portarla"
+],
+[
+"D",
+"Por prestar el servicio público de transporte con vehículos particulares, salvo cuando el orden público lo justifique, previa decisión en tal sentido de la autoridad respectiva."
+],
+[
+"E",
+"La Respuesta A y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Una decisión judicial"
+],
+[
+"B",
+"Por disposición de las autoridades de tránsito basada en la imposibilidad permanente física o mental para conducir, soportado en un certificado médico"
+],
+[
+"C",
+"Por conducir con una licencia vencida"
+],
+[
+"D",
+"Por muerte del titular."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"A1 y A2"
+],
+[
+"B",
+"B1 y C1"
+],
+[
+"C",
+"B2 y C2"
+],
+[
+"D",
+"B3 y C3"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"A1 y A2"
+],
+[
+"B",
+"B1y C1"
+],
+[
+"C",
+"B2 y C2"
+],
+[
+"D",
+"B3 y C3"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"A1 y A2"
+],
+[
+"B",
+"B1 y C1"
+],
+[
+"C",
+"B2 y C2"
+],
+[
+"D",
+"B3 y C3"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"A una entidad educativa con programas reconocidos por el Ministerio de Educación Nacional"
+],
+[
+"B",
+"A un Centro de Enseñanza Automovilística aprobado por el Ministerio de Transporte y el Ministerio de Educación Nacional para la formación de instructores en conducción."
+],
+[
+"C",
+"A un Centro de Enseñanza Automovilística aprobado por el Ministerio de Transporte y el Ministerio de Educación Nacional para la instrucción de conductores."
+],
+[
+"D",
+"A un organismo de tránsito"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Un organismo de tránsito"
+],
+[
+"B",
+"Cualquier entidad de salud"
+],
+[
+"C",
+"Un Centro de Reconocimiento para Conductores (CRC) habilitado por el Ministerio de Transporte y registrado ante el RUNT"
+],
+[
+"D",
+"Un medico o entidad prestadora de servicio de salud registrado en las Secretarias de Salud de la localidad"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Un documento público de carácter personal e intransferible expedido por autoridad competente, el Cuál autoriza a una persona para la conducción de vehículos con validez en todo el territorio nacional"
+],
+[
+"B",
+"Un documento público con validez en todo el territorio nacional, el Cuál identifica externa y privativamente un vehículo"
+],
+[
+"C",
+"Un documento público que identifica un vehículo automotor, acredita su propiedad e identifica a su propietario y autoriza a dicho vehículo para circular por las vías públicas y por las privadas abiertas al público"
+],
+[
+"D",
+"Referencia que le da el fabricante a una clase de vehículo de acuerdo con las características específicas técnico-mecánicas."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Licencia de Conducción"
+],
+[
+"B",
+"Factura de compra"
+],
+[
+"C",
+"Seguro Obligatorio SOAT"
+],
+[
+"D",
+"Certificación de la revisión técnico mecánica y de emisión de gases"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Licencia de Tránsito"
+],
+[
+"B",
+"Manifiesto de carga"
+],
+[
+"C",
+"Seguro Obligatorio SOAT"
+],
+[
+"D",
+"Carné de afiliación EPS"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Licencia de conducción"
+],
+[
+"B",
+"Tarjeta de Operación"
+],
+[
+"C",
+"Documentos de ley del servicio de transporte de carga"
+],
+[
+"D",
+"Certificado de revisión técnico mecánica y de emisión de gases"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Licencia de conducción"
+],
+[
+"B",
+"Licencia de tránsito"
+],
+[
+"C",
+"Tarjeta de operación"
+],
+[
+"D",
+"Carné de afiliación a la EPS"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Contrato de trabajo"
+],
+[
+"B",
+"Seguro Obligatorio SOAT"
+],
+[
+"C",
+"Certificado de la revisión técnico-mecánica y de emisión de gases"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Un concesionario de vehículos"
+],
+[
+"B",
+"Un centro de diagnostico automotor"
+],
+[
+"C",
+"Un Organismo de Tránsito"
+],
+[
+"D",
+"Una compañía de seguros"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cualquier compañía aseguradora"
+],
+[
+"B",
+"Los Diagnosticentros y Servítecas"
+],
+[
+"C",
+"Las compañías aseguradoras autorizadas por la superintendencia bancaria"
+],
+[
+"D",
+"Los organismos de tránsito"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Tantos daños corporales como materiales hasta el límite de cobertura."
+],
+[
+"B",
+"Únicamente la atención básica de daños corporales de las víctimas del accidente"
+],
+[
+"C",
+"Tanto daños corporales como materiales sin límite de cobertura."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"El modelo del vehículo"
+],
+[
+"B",
+"El modelo del vehículo y su valor comercial que determinen las autoridades competentes"
+],
+[
+"C",
+"La capacidad económica del propietario del vehículo."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"A todas las personas involucradas en el accidente, sin excepción dentro de las cuantías establecidas"
+],
+[
+"B",
+"A todas salvo el conductor causante del accidente"
+],
+[
+"C",
+"A todas menos salvo el propietario del vehículo, si este es el causante del accidente"
+],
+[
+"D",
+"Sólo a los ocupantes del vehículo tomador del SOAT"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Aumentada"
+],
+[
+"B",
+"Disminuida"
+],
+[
+"C",
+"La normal"
+],
+[
+"D",
+"Disminuida significativamente"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Porque el piso estará resbaladizo"
+],
+[
+"B",
+"Porque pueden haberse recalentado los frenos"
+],
+[
+"C",
+"Porque los frenos pueden haberse mojado"
+],
+[
+"D",
+"Porque podría haber agua en el sistema hidráulico"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Accionar el freno suave en forma repetida"
+],
+[
+"B",
+"Accionar el freno con fuerza una sola vez"
+],
+[
+"C",
+"Accionar el freno suave una sola vez"
+],
+[
+"D",
+"Accionar el freno con fuerza en forma repetitiva"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Porque el pedal del freno llega hasta el fondo"
+],
+[
+"B",
+"Porque el pedal del freno tiene poco recorrido"
+],
+[
+"C",
+"Porque el pedal del freno esta muy duro"
+],
+[
+"D",
+"Porque el pedal del freno"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"La bomba del aceite se ha roto"
+],
+[
+"B",
+"El nivel de aceite esta muy bajo"
+],
+[
+"C",
+"El nivel de aceite esta entre el máximo y el mínimo"
+],
+[
+"D",
+"La luz indicadora de la presión de aceite esta fallando"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"El vehículo tiene bajo nivel de aceite"
+],
+[
+"B",
+"Las bujías están empapadas de aceite"
+],
+[
+"C",
+"El termostato está dañado"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Roturas en el pavimento"
+],
+[
+"B",
+"Exceso de consumo de agua en la batería"
+],
+[
+"C",
+"Deterioro en las válvulas de inflado"
+],
+[
+"D",
+"Vibraciones en el vehículo y en el volante"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Uso de la llave equivocada"
+],
+[
+"B",
+"Falta de combustible"
+],
+[
+"C",
+"Batería descargada"
+],
+[
+"D",
+"Daño en el motor de arranque"
+],
+[
+"E",
+"La Respuesta C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Se debe evitar la inhalación de vapores de gasolina"
+],
+[
+"B",
+"No se debe echar gasolina cuando el motor este funcionando"
+],
+[
+"C",
+"El conductor debe tratar de llenar el tanque al máximo"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"La presión más alta recomendada por el fabricante"
+],
+[
+"B",
+"La misma presión de las ruedas delanteras"
+],
+[
+"C",
+"Una presión levemente inferior a los demás neumáticos"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Sistema de refrigeración obstruido"
+],
+[
+"B",
+"Batería con carga baja"
+],
+[
+"C",
+"Insuficiente paso de agua caliente al radiador de calefacción"
+],
+[
+"D",
+"Bajo nivel de agua en la batería"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Sobre todas"
+],
+[
+"B",
+"Sobre las delanteras"
+],
+[
+"C",
+"Sobre las traseras"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Después de que lo hayan lavado por debajo"
+],
+[
+"B",
+"Después de un largo tiempo que hay estado guardado"
+],
+[
+"C",
+"Cuando se compra un auto nuevo"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Colocar aditivos en el combustible"
+],
+[
+"B",
+"Mantener el carburador limpio y ajustado"
+],
+[
+"C",
+"Mantener el filtro de aire limpio"
+],
+[
+"D",
+"Realizar el ajuste del ralentí"
+],
+[
+"E",
+"Todas las anteriores."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"La batería"
+],
+[
+"B",
+"La bobina"
+],
+[
+"C",
+"El distribuidor"
+],
+[
+"D",
+"El ralentí"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"La Batería"
+],
+[
+"B",
+"La Bomba de aire"
+],
+[
+"C",
+"La bujía"
+],
+[
+"D",
+"La bobina"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Dirección"
+],
+[
+"B",
+"Suspensión"
+],
+[
+"C",
+"Transmisión"
+],
+[
+"D",
+"Frenos"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Suspensión"
+],
+[
+"B",
+"Transmisión"
+],
+[
+"C",
+"Frenos"
+],
+[
+"D",
+"Dirección"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cambiar los neumáticos de un lugar a otro"
+],
+[
+"B",
+"Bombear el pedal del freno"
+],
+[
+"C",
+"Usar el freno de mano"
+],
+[
+"D",
+"Consultar con el mecánico lo antes posible"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Un bajo nivel del liquido de frenos"
+],
+[
+"B",
+"Los neumáticos tienen una presión de aire inadecuada"
+],
+[
+"C",
+"Los frenos están mal ajustados"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No preocuparse porque sólo son los gases de escape"
+],
+[
+"B",
+"Continuar a una velocidad reducida"
+],
+[
+"C",
+"Detenerse e investigar el problema"
+],
+[
+"D",
+"Continuar porque sabe que el vehículo se detendrá unos metros adelante"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Evitando conducir con el tanque de gasolina lleno"
+],
+[
+"B",
+"Usando gasolina sin plomo"
+],
+[
+"C",
+"Revisar el vehículo ante la presencia de olor fuerte a gasolina"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Con el motor encendido"
+],
+[
+"B",
+"Con el motor apagado"
+],
+[
+"C",
+"Con el vehículo levemente inclinado"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"En las ruedas delanteras"
+],
+[
+"B",
+"En las ruedas traseras"
+],
+[
+"C",
+"En las ruedas motrices"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Después de un viaje largo"
+],
+[
+"B",
+"Después de haber conducido a alta velocidad"
+],
+[
+"C",
+"Cuando los neumáticos están fríos"
+],
+[
+"D",
+"Cuando los neumáticos están calientes"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Los neumáticos se desgastan menos"
+],
+[
+"B",
+"Se absorben mejor las irregularidades del terreno y el vehículo vibra menos"
+],
+[
+"C",
+"Se pierde la adherencia del vehículo y por tanto la seguridad"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El liquido de frenos"
+],
+[
+"B",
+"El líquido anticongelante"
+],
+[
+"C",
+"El líquido de batería"
+],
+[
+"D",
+"El líquido refrigerante"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Frenando fuerte poniendo la palanca de cambio en neutro y tirando el freno de mano justo antes de detenerse"
+],
+[
+"B",
+"Frenando suavemente presionando el pedal de embrague y tirando el freno de mano justo antes de detenerse"
+],
+[
+"C",
+"Poniendo la palanca de cambio en neutro, frenando fuerte y luego soltando el freno justo antes de detenerse"
+],
+[
+"D",
+"Frenando suavemente, luego un poco más fuerte cundo comienza a detenerse y después aflojando un poco el freno antes de tenerse"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Para que el vehículo mantenga la altura correcta sobre la vía"
+],
+[
+"B",
+"Para evitar que el vehículo se incline hacia un lado"
+],
+[
+"C",
+"Para ayudar a evitar que el vehículo pierda una rueda"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Fallas en el sistema de dirección"
+],
+[
+"B",
+"Aceleraciones excesivas en las curvas"
+],
+[
+"C",
+"Frecuentes frenadas y aceleraciones"
+],
+[
+"D",
+"Conducción a altas velocidades"
+],
+[
+"E",
+"La Respuesta C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Dar reversa para detener el vehículo"
+],
+[
+"B",
+"Hacer una señal de detención con el brazo"
+],
+[
+"C",
+"Detenerse lentamente a un costado de la vía"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Cambiar de carril y frenar de fondo"
+],
+[
+"B",
+"Frenar suavemente o dejar que el vehículo siga hasta detenerse"
+],
+[
+"C",
+"Frenar rápida y firmemente"
+],
+[
+"D",
+"Sostener firmemente el volante manteniendo la trayectoria"
+],
+[
+"E",
+"La Respuesta B y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Porque reduce su control sobre el vehículo"
+],
+[
+"B",
+"Porque aumenta el desgaste de la caja de cambios"
+],
+[
+"C",
+"Porque aumenta el consumo de combustible"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Hace sentir la dirección más pesada"
+],
+[
+"B",
+"Mejora el rendimiento del combustible"
+],
+[
+"C",
+"Hace sentir la dirección más liviana"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"No, la distancia de frenado depende solamente de la velocidad"
+],
+[
+"B",
+"No, porque una vez se activa el freno la distancia de frenado de un vehículo es siempre igual"
+],
+[
+"C",
+"Si, porque a mayor desgaste de los neumáticos mayor es la distancia de frenado"
+],
+[
+"D",
+"Si porque el desgaste de los neumáticos es un de los factores que alarga la distancia de frenado"
+],
+[
+"E",
+"La Respuesta C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Los gases de escape de los vehículos no son peligrosos para la salud de las personas"
+],
+[
+"B",
+"La batería mal cargada hace que el vehículo tenga problemas para arrancar"
+],
+[
+"C",
+"La Respuesta B y D, son Correctas"
+],
+[
+"D",
+"Una temperatura del motor demasiado alta puede deberse a la ruptura de la correa de la bomba de agua"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Tomar el manubrio con fuerza"
+],
+[
+"B",
+"Seleccionar una marcha baja"
+],
+[
+"C",
+"Seleccionar neutro"
+],
+[
+"D",
+"Presionar el pedal de embrague"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Frenar con firmeza y girar el manubrio"
+],
+[
+"B",
+"Guiar el vehículo cuidadosamente hacia la izquierda"
+],
+[
+"C",
+"Usar el embrague y frenar firmemente"
+],
+[
+"D",
+"Girar hacia la derecha"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Girar rápidamente hacia la derecha"
+],
+[
+"B",
+"Frenar firmemente y no girar el manubrio"
+],
+[
+"C",
+"Guiar cuidadosamente el vehículo hacia la izquierda"
+],
+[
+"D",
+"Usar el embrague y frenar firmemente"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Seleccionar un cambio bajo y usar los frenos cuidadosamente"
+],
+[
+"B",
+"Seleccionar un cambio alto y usar los frenos cuidadosamente"
+],
+[
+"C",
+"Seleccionar un cambio alto y usar los frenos firmemente"
+],
+[
+"D",
+"Seleccionar un cambio bajo y evitar usar los frenos"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"No girar el volante del vehículo"
+],
+[
+"B",
+"Girar el volante hacia el lado opuesto al coletazo"
+],
+[
+"C",
+"Girar el volante hacia el lado que se desplaza la cola del vehículo"
+],
+[
+"D",
+"Aplicar el freno de mano."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"La velocidad"
+],
+[
+"B",
+"El alumbrado público"
+],
+[
+"C",
+"El estado de los frenos y de los neumáticos"
+],
+[
+"D",
+"Las condiciones climáticas"
+],
+[
+"E",
+"La Respuesta A, C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"No girar el volante del vehículo"
+],
+[
+"B",
+"Girar el volante hacia el lado opuesto al coletazo"
+],
+[
+"C",
+"Girar el volante hacia el lado que se desplaza la cola del vehículo"
+],
+[
+"D",
+"Aplicar el freno de mano"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Ud. debe obedecerlas siempre"
+],
+[
+"B",
+"Ud. debe obedecerlas siempre que ellas coincidan con las señales de tránsito"
+],
+[
+"C",
+"Ud. debe obedecerlas sólo si el Carabinero está regulando el tránsito en un cruce"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Detenerse, porque la luz roja se lo está indicando"
+],
+[
+"B",
+"Avanzar, porque las instrucciones de un agente, prevalecen sobre las señales del transito"
+],
+[
+"C",
+"Avanzar, sólo si detrás suyo no vienen otros vehículos"
+],
+[
+"D",
+"Avanzar, sólo si está seguro que la luz roja está próxima a cambiar"
+]
+],
+"answer": "B"
+}
+],
+"II": [
+{
+"options": [
+[
+"A",
+"Pitos adaptados a los sistemas de bajo"
+],
+[
+"B",
+"Pitos adaptados a los sistemas de frenos de aire"
+],
+[
+"C",
+"Sirenas y Cornetas"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"El Código Penal"
+],
+[
+"B",
+"El Código de Recursos Naturales"
+],
+[
+"C",
+"El Código Nacional de Tránsito (Ley 769 de 2002)"
+],
+[
+"D",
+"El Código Nacional de Policía"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El propietario del vehículo"
+],
+[
+"B",
+"La empresa de transporte donde esté vinculado el vehículo"
+],
+[
+"C",
+"El conductor del vehículo"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Dos (2) años para los vehículos de servicio público"
+],
+[
+"B",
+"Tres (3) años para los vehículos de servicio particular"
+],
+[
+"C",
+"Un (1) año para todos los vehículos que circulan en las vías Nacionales"
+],
+[
+"D",
+"Dos (2) años para Motocicletas con matricula reciente."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Un gato con capacidad para el tipo vehículo"
+],
+[
+"B",
+"El apoya cabezas"
+],
+[
+"C",
+"Dos señales de carretera en forma de triángulo en material reflectivo y provistas de soportes para ser colocadas en forma vertical"
+],
+[
+"D",
+"Caja de herramientas."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Lámparas de señal de luz amarilla intermitentes o de destello"
+],
+[
+"B",
+"El air bag"
+],
+[
+"C",
+"Un botiquín de primeros auxilios"
+],
+[
+"D",
+"Un extintor"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Dos tacos para bloquear el vehículo"
+],
+[
+"B",
+"Caja de herramientas"
+],
+[
+"C",
+"Llanta de repuesto"
+],
+[
+"D",
+"El pito"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Los conductores de cualquier tipo de vehículo"
+],
+[
+"B",
+"Sólo los conductores de vehículos motorizados"
+],
+[
+"C",
+"Las personas con limitaciones físicas que circulen con acompañante mayor de 16 años"
+],
+[
+"D",
+"Los peatones"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Invadir la zona destinada al tránsito de vehículos, ni transitar en ésta en patines, monopatines, patinetas o similares."
+],
+[
+"B",
+"Llevar, sin las debidas precauciones, elementos que puedan obstaculizar o afectar el tránsito"
+],
+[
+"C",
+"Cruzar por sitios no permitidos o transitar sobre el guardavía del ferrocarril."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Llevar acompañante con los elementos de seguridad"
+],
+[
+"B",
+"Transitar por las zonas peatonales"
+],
+[
+"C",
+"Adelantar otro vehículo por la derecha"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Colocarse delante o detrás de un vehículo que tenga el motor encendido"
+],
+[
+"B",
+"Permanecer en la acera hasta que el semáforo indique que debe cruzar"
+],
+[
+"C",
+"Remolcarse de vehículos en movimiento"
+],
+[
+"D",
+"Actuar de manera que ponga en peligro su integridad física"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Transitar por la derecha de las vías a una distancia no mayor a un metro de la acera"
+],
+[
+"B",
+"Vestir chalecos reflectivos y casco protector"
+],
+[
+"C",
+"Sujetarse a otro vehículo o carruaje de mayor tamaño"
+],
+[
+"D",
+"Transitar sobre las aceras"
+],
+[
+"E",
+"La Respuesta C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Ocupar la zona de seguridad y protección de la vía férrea"
+],
+[
+"B",
+"Subirse o bajarse de los vehículos, estando éstos en movimiento"
+],
+[
+"C",
+"Detener su vehículo en una vía principal"
+],
+[
+"D",
+"Transitar por los túneles, puentes y viaductos de las vías férreas."
+],
+[
+"E",
+"La Respuesta A, B y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Disminuir la velocidad"
+],
+[
+"B",
+"Avisar anticipadamente la maniobra a través de señales luminosas direccionales"
+],
+[
+"C",
+"La Respuesta A, B y D, son Correctas"
+],
+[
+"D",
+"Efectuar la maniobra sin entorpecer el tránsito o poner en riesgo la seguridad de los demás vehículos"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Disminuir la velocidad del vehículo."
+],
+[
+"B",
+"Abrirle paso al vehículo orillando el vehículo hacia cualquier lado."
+],
+[
+"C",
+"Orillar él vehículo hacia la derecha."
+],
+[
+"D",
+"Frenar su vehículo para dejarlo pasar."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Sacar el brazo izquierdo y lo extenderlo horizontalmente"
+],
+[
+"B",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia arriba"
+],
+[
+"C",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia abajo"
+],
+[
+"D",
+"Sacar el brazo derecho y lo extenderlo horizontalmente."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Sacar el brazo izquierdo y extenderlo horizontalmente"
+],
+[
+"B",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia arriba"
+],
+[
+"C",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia abajo"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Sacar el brazo izquierdo y extenderlo horizontalmente"
+],
+[
+"B",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia arriba"
+],
+[
+"C",
+"Sacar el brazo izquierdo formando escuadra con la mano hacia abajo"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Remolcarlo durante la noche"
+],
+[
+"B",
+"Remolcarlo con señales de alerta reflectiva"
+],
+[
+"C",
+"Remolcarlo durante el día"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Entre un y dos metros"
+],
+[
+"B",
+"Entre dos y tres metros"
+],
+[
+"C",
+"Entre tres y cuatro metros"
+],
+[
+"D",
+"Entre cuatro y cinco metros"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cuerda especial para sostenerlo"
+],
+[
+"B",
+"Una barra o dispositivo especial"
+],
+[
+"C",
+"Cable para soportar más de cinco toneladas."
+],
+[
+"D",
+"Grúa que cumpla con las normatividad vigente."
+],
+[
+"E",
+"La Respuesta B y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Entre cinco (5) y diez (10) metros adelante y atrás del vehículo"
+],
+[
+"B",
+"Entre quince (15) y veinte (20) metros adelante y atrás del vehículo"
+],
+[
+"C",
+"Quince veinte (20) y treinta (30) metros adelante y atrás del vehículo"
+],
+[
+"D",
+"Entre cincuenta (50) y cien (100) metros adelante y atrás del vehículo"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Únicamente de sus habilidades, aptitudes físicas y mentales"
+],
+[
+"B",
+"De sus habilidades, aptitudes físicas y mentales y del estado del vehículo"
+],
+[
+"C",
+"Sólo del estado y de las condiciones técnico-mecánicas del vehículo."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"El tiempo que transcurre desde que el conductor pone el pie en el freno hasta que el vehículo de detiene"
+],
+[
+"B",
+"El tiempo que transcurre desde que el conductor ve un obstáculo hasta que detiene el vehículo"
+],
+[
+"C",
+"El tiempo que transcurre desde que el conductor percibe un estimulo, hasta que responde al mismo tomando una decisión."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Entre medio y un minuto"
+],
+[
+"B",
+"Dos segundos"
+],
+[
+"C",
+"Oscila entre uno y tres segundos"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Distancia de frenado"
+],
+[
+"B",
+"Distancia de seguridad"
+],
+[
+"C",
+"Distancia de reacción"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Distancia de reacción"
+],
+[
+"B",
+"Distancia de detención técnica o parada definitiva"
+],
+[
+"C",
+"Distancia de frenado"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No cuando hace frío fuera del vehículo"
+],
+[
+"B",
+"Si, porque puede producir adormecimiento teniendo como consecuencia la disminución en la capacidad de reacción."
+],
+[
+"C",
+"No, el calor no es una circunstancia que afecte al conductor."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Actuará mejor y más rápido ante las situaciones imprevistas"
+],
+[
+"B",
+"Aumentará su tiempo de reacción por ir cómodo y relajado"
+],
+[
+"C",
+"Disminuirá su tiempo de reacción al ir cómodo y relajado"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Si, porque se llega con más facilidad a los mandos del vehículo y por lo tanto se reacciona antes."
+],
+[
+"B",
+"No, en ningún caso, porque los movimientos son más forzados y por lo tanto la conducción se hace más insegura"
+],
+[
+"C",
+"No, tal circunstancia no influye en la conducción sólo es comodidad para el conductor"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Cuando el vehículo este en movimiento para que sea más real"
+],
+[
+"B",
+"Cuando el vehículo este parado y de ser posible en un terreno llano y recto"
+],
+[
+"C",
+"Tanto con el vehículo parado como en movimiento, la operación no afecta para nada"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Un espejo exterior izquierdo y uno interior de grandes dimensiones"
+],
+[
+"B",
+"Un espejo retrovisor interior y otro exterior izquierdo"
+],
+[
+"C",
+"Dos espejos retrovisores exteriores uno a cada lado del vehículo"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Proteger la cabeza del conductor y los viajeros para evitar lesiones o reducir su gravedad"
+],
+[
+"B",
+"Permitir manejar derecho todo el trayecto"
+],
+[
+"C",
+"Proteger y retener el cuerpo del conductor y demás ocupantes absorbiendo parte del impacto de choque."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cuando se conduce por vías urbanas"
+],
+[
+"B",
+"Cuando se conduce por vías rurales o carreteras intermunicipales"
+],
+[
+"C",
+"Cuando el viaje es largo"
+],
+[
+"D",
+"Siempre que se desplace por cualquier vía del territorio Nacional"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Si, en todo caso debe usarse cinturón de seguridad"
+],
+[
+"B",
+"No, porque el vehículo dispone de un sistema de seguridad análogo y por lo tanto no se recomienda el uso del cinturón de seguridad"
+],
+[
+"C",
+"Si, pero sólo cuando transite por vías intermunicipales"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Sólo cuando tenga capacete o cubierta rígida"
+],
+[
+"B",
+"En ningún caso pueden llevarse personas fuera de un platón cuando este sea destapado"
+],
+[
+"C",
+"Si, cuando la distancia de desplazamiento sea corta"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Estacionar el vehículo en zona pendiente"
+],
+[
+"B",
+"Para evitar del vehículo ruede en un terreno inclinado"
+],
+[
+"C",
+"Como un freno auxiliar que detiene la marcha del vehículo"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Con frenadas fuertes y a fondo pero sin bloquear las ruedas"
+],
+[
+"B",
+"Pisando el closth y el freno fuerte sin bloquear las ruedas."
+],
+[
+"C",
+"Con frenadas suaves y progresivas"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Se requiere de mayor distancia de frenado"
+],
+[
+"B",
+"Se requiere de menor distancia de frenado"
+],
+[
+"C",
+"No se requiere de distancia para parar."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Una carga mal acomodada en la bandeja del vehículo"
+],
+[
+"B",
+"Las gomas del limpia brisas (Plumillas) en mal estado"
+],
+[
+"C",
+"Vidrios sucios"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Ver la mayor parte del vehículo"
+],
+[
+"B",
+"Ver la mínima parte lateral del vehículo y lo más posible de la calzada"
+],
+[
+"C",
+"Ver la parte delantera del vehículo y muy poco la calzada"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Antes de disminuir la velocidad y detenerse"
+],
+[
+"B",
+"Después de arrancar de un semáforo"
+],
+[
+"C",
+"Cuando ingresa a una curva"
+],
+[
+"D",
+"Antes de adelantar un vehículo o cambiarse de carril"
+],
+[
+"E",
+"La Respuesta A y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Con el vehículo en marcha"
+],
+[
+"B",
+"La Respuesta C y D, son Correctas."
+],
+[
+"C",
+"Con el vehículo detenido y en una zona plana"
+],
+[
+"D",
+"En cualquier momento que se requiera"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que se ven los autos más lejos de lo que están en la realidad"
+],
+[
+"B",
+"Que se ven los autos más cerca de lo que están en la realidad"
+],
+[
+"C",
+"El conductor tendrá mayor campo visual sobre los Puntos Ciegos."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Un niño menor de 9 años viaja más seguro en la parte delantera del vehículo con un adulto sostenido por el cinturón de seguridad"
+],
+[
+"B",
+"La Respuesta A y D, son Correctas."
+],
+[
+"C",
+"El cinturón de seguridad disminuye el riesgo de sufrir lesiones graves"
+],
+[
+"D",
+"A los que viaja en la parte trasera del vehículo el cinturón de seguridad no les presta utilidad"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que se sostenga mejor en el asiento"
+],
+[
+"B",
+"Que se lastime contra la parte anterior cuando frene subidamente"
+],
+[
+"C",
+"Que salga despedido fuera del vehículo en caso de accidente"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Los espejos retrovisores"
+],
+[
+"B",
+"El asiento y apoya cabeza"
+],
+[
+"C",
+"El espejo interior"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Queden ligeramente flexionados"
+],
+[
+"B",
+"Queden totalmente extendidos"
+],
+[
+"C",
+"Queden en un ángulo inferior a 90 grados"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando esta obstruyendo el tránsito"
+],
+[
+"B",
+"Cuando se estacione junto a la cuneta en una vía doble de igual sentido"
+],
+[
+"C",
+"Cuando se estacione en una vía con doble Línea amarilla pintada"
+],
+[
+"D",
+"Cuando sus señales direccionales no funcionen"
+],
+[
+"E",
+"La Respuesta A, B y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Cuando estaciona en una doble fila respecto a otro vehículo estacionado junto a la cuneta"
+],
+[
+"B",
+"Para advertir a quienes vienen atrás de un peligro que hay más adelante"
+],
+[
+"C",
+"Para advertir a quienes vienen atrás que se pretende girar"
+],
+[
+"D",
+"Para advertir a los demás que usted tiene prisa"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando el vehículo presenta una avería y se mueve lentamente"
+],
+[
+"B",
+"Cuando esta siendo remolcado"
+],
+[
+"C",
+"Cuando se retrocede en un vía de poco tráfico"
+],
+[
+"D",
+"Cuando este obstaculizando el paso"
+],
+[
+"E",
+"La Respuesta A, B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Circular por ella"
+],
+[
+"B",
+"Fumar"
+],
+[
+"C",
+"Comer"
+],
+[
+"D",
+"Lavar el limpia brisas"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Aseguran las hebillas de los cinturones de seguridad"
+],
+[
+"B",
+"Impiden que las puertas puedan abrirse desde el interior"
+],
+[
+"C",
+"Bloquean las ventanas traseras manteniéndolas cerradas"
+],
+[
+"D",
+"Impiden que los asientos se reclinen"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"La luces"
+],
+[
+"B",
+"Los espejos"
+],
+[
+"C",
+"La Respuesta B y D, son Correctas."
+],
+[
+"D",
+"Los vidrios"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El casco de protección"
+],
+[
+"B",
+"Los guantes"
+],
+[
+"C",
+"El chaleco reflectivo"
+],
+[
+"D",
+"El calzado que cubra el tobillo"
+],
+[
+"E",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"La Respuesta C y D, son Correctas."
+],
+[
+"B",
+"Las botas de seguridad son la mejor protección para los pies"
+],
+[
+"C",
+"No es conveniente que el motociclista use guantes de cuero"
+],
+[
+"D",
+"Los cascos de buena calidad tiene fecha de vencimiento"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando al finalizar el adelantamiento vuelve al carril donde estaba"
+],
+[
+"B",
+"Cuando se aproxima una curva a la derecha"
+],
+[
+"C",
+"Cuando se aproxima una curva a la izquierda"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Se mantiene igual"
+],
+[
+"B",
+"Se duplica"
+],
+[
+"C",
+"Se triplica"
+],
+[
+"D",
+"Se cuadriplica"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que los frenos sean eficientes"
+],
+[
+"B",
+"Conducir a velocidad constante"
+],
+[
+"C",
+"Mantener la distancia de separación (Espaciamiento) entre los vehículos"
+],
+[
+"D",
+"Tener neumáticos en buen estado"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"50 metros"
+],
+[
+"B",
+"15 metros"
+],
+[
+"C",
+"10 metros"
+],
+[
+"D",
+"30 metros"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Estacionar detrás de otro auto"
+],
+[
+"B",
+"Estacionar con ruedas sobre la acera"
+],
+[
+"C",
+"Dejar el volante girado hacia la acera"
+],
+[
+"D",
+"Dejar puesto el freno de mano"
+],
+[
+"E",
+"La Respuesta B, C y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"No estar atento al tránsito"
+],
+[
+"B",
+"Una frenada fuerte y sorpresiva de su vehículo"
+],
+[
+"C",
+"No guardar la distancia apropiada con el otro vehículo"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Una tapa del alcantarillado existente en la calzada"
+],
+[
+"B",
+"La presencia de hojas"
+],
+[
+"C",
+"La presencia de arena"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Una alta velocidad"
+],
+[
+"B",
+"El cansancio"
+],
+[
+"C",
+"La distracción del conductor"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Cuando se conduce en bajada"
+],
+[
+"B",
+"Cuando se lleva un pequeño remolque sin freno"
+],
+[
+"C",
+"Cuando la calzada está húmeda"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Frenadas fuertes"
+],
+[
+"B",
+"La Respuesta B y C, son Correctas."
+],
+[
+"C",
+"Conducir a alta velocidad en una calzada mojada"
+],
+[
+"D",
+"Conducir a baja velocidad en la salida de la curva"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Antes de entrar a ella"
+],
+[
+"B",
+"Cuando la va recorriendo"
+],
+[
+"C",
+"Cuando ya ha pasado la mitad de ella"
+],
+[
+"D",
+"Cuando va saliendo de ella"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Acelerar para salir cuanto antes de ella"
+],
+[
+"B",
+"Acelerar para luego reducir la velocidad mientras vaya saliendo de ella"
+],
+[
+"C",
+"Disminuir la velocidad, pero sólo si la calzada está mojada"
+],
+[
+"D",
+"Disminuir la velocidad, para luego acelerar gradualmente mientras la va recorriendo"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Quien sobrestima sus habilidades para conducir, conduce a altas velocidades"
+],
+[
+"B",
+"Quien sobrestima sus habilidades para conducir, crea situaciones de riesgo con alta frecuencia."
+],
+[
+"C",
+"Con frecuencia los muchachos jóvenes sobrestiman sus habilidades para conducir, conducen a altas velocidades y se ven más involucrados en accidentes de tránsito"
+],
+[
+"D",
+"Muchos conductores muestran deficiencias en su madurez personal"
+],
+[
+"E",
+"Todas las anteriores."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Conduce con prudencia y hace todo lo posible por evitar accidentes"
+],
+[
+"B",
+"Es considerado y amable con los peatones y demás conductores"
+],
+[
+"C",
+"Es respetuoso, no obstaculiza ni perturba al resto"
+],
+[
+"D",
+"La Respuesta A, B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Que el conductor no posea licencia para conducir"
+],
+[
+"B",
+"Que el conductor esté muy cansado o bajo los efectos del alcohol"
+],
+[
+"C",
+"Que el conductor esté bajo los efectos de medicamentos"
+],
+[
+"D",
+"Que el conductor sobrestime sus capacidades y conduzca a exceso de velocidad"
+],
+[
+"E",
+"La Respuesta B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Los errores humanos cometidos por los conductores"
+],
+[
+"B",
+"Las condiciones climáticas"
+],
+[
+"C",
+"Las condiciones y estado de las vias"
+],
+[
+"D",
+"Las fallas mecánicas de los vehículos automotores"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Un grado demasiado alto de estrés disminuye su campo de atención"
+],
+[
+"B",
+"Un estrés moderado puede contribuir a mejorar su rendimiento"
+],
+[
+"C",
+"Un conductor muy estresado puede tener reacciones de pánico"
+],
+[
+"D",
+"El estrés no influye en absoluto en los actos de un conductor"
+],
+[
+"E",
+"La Respuesta B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Que reaccione adecuadamente ante cualquier imprevisto"
+],
+[
+"B",
+"Que actúe sin pensar en las consecuencias"
+],
+[
+"C",
+"Que conduzca con excesiva precaución"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que reaccione adecuadamente ante cualquier imprevisto"
+],
+[
+"B",
+"Que actúe sin pensar en las consecuencias"
+],
+[
+"C",
+"Que efectúe maniobras inesperadas que sorprendan a los demás"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Mantener el vehículo en muy buenas condiciones"
+],
+[
+"B",
+"Respetar los límites de velocidad"
+],
+[
+"C",
+"Contar siempre con tiempo de sobra al conducir"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Contando siempre con tiempo de sobra para conducir"
+],
+[
+"B",
+"Manteniendo su vehículo en condiciones óptimas"
+],
+[
+"C",
+"La Respuesta B y D, son Correctas."
+],
+[
+"D",
+"Conduciendo a la defensiva"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Hacer valer sus derechos en todo momento"
+],
+[
+"B",
+"Conservar la distancia o espaciamiento entre vehículos"
+],
+[
+"C",
+"Tomar en cuenta los posibles errores de los demás"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"El constante cambio de luz y sombra hace más difícil percibir oportunamente a otros participantes en el tránsito"
+],
+[
+"B",
+"El constante cambio de luz y sombra dificulta el cálculo de distancias"
+],
+[
+"C",
+"La Respuesta A y B, son Correctas."
+],
+[
+"D",
+"Ud. debe adecuar su velocidad a las cambiantes condiciones de visibilidad"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"La conducción durante largo tiempo a alta velocidad"
+],
+[
+"B",
+"La conducción sobre calzadas anchas y en buen estado"
+],
+[
+"C",
+"Los motores ruidosos"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Disminución de su capacidad de concentración"
+],
+[
+"B",
+"Aumento de su capacidad visual"
+],
+[
+"C",
+"Disminución de su capacidad para apreciar la velocidad"
+],
+[
+"D",
+"Aumento de su capacidad para juzgar la velocidad en las curvas"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Ir en una marcha alta"
+],
+[
+"B",
+"Tener el pie en el pedal de freno"
+],
+[
+"C",
+"Llevar encendidas sus luces de emergencia"
+],
+[
+"D",
+"Ir con el motor desenganchado"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que el motor se pare"
+],
+[
+"B",
+"Vararse por falta de gasolina"
+],
+[
+"C",
+"Conducir demasiado cerca del vehículo que va delante de él."
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Porque a menudo se subestima la velocidad del tránsito"
+],
+[
+"B",
+"Porque a menudo se sobrestima la velocidad del tránsito en contra"
+],
+[
+"C",
+"Porque a menudo se sobrestima la velocidad del vehículo al que se desea adelantar"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"La capacidad de reacción de una persona se ve afectada con pequeñas concentraciones de alcohol en su organismo"
+],
+[
+"B",
+"Una buena taza de café acelera el proceso mediante el cuál el organismo se libera del alcohol"
+],
+[
+"C",
+"Con pequeñas concentraciones de alcohol en el organismo de un individuo, aumentan ciertas inhibiciones y tiende a subestimar sus capacidades"
+],
+[
+"D",
+"La capacidad de interpretación y decisión de un conductor experimentado no se ven afectadas con sólo 2 tragos de licor fuerte."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Unos pocos tragos no afectan la visión periférica"
+],
+[
+"B",
+"Una buena taza de café acelera el proceso mediante el cuál el organismo se libera del alcohol"
+],
+[
+"C",
+"Con pequeñas concentraciones de alcohol en el organismo de un individuo, disminuyen ciertas inhibiciones y tiende a sobrestimar sus capacidades"
+],
+[
+"D",
+"La capacidad de interpretación y decisión de un conductor experimentado no se ven afectadas con sólo 2 tragos de licor fuerte"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Aunque la persona beba la misma cantidad de alcohol cada ocasión, la concentración de éste en su sangre puede ser diferente"
+],
+[
+"B",
+"La concentración de alcohol depende de cuánto se come en cada ocasión"
+],
+[
+"C",
+"Entre otros factores, la concentración de alcohol también depende del tiempo que dura la ingestión cada vez"
+],
+[
+"D",
+"Si la cantidad de alcohol ingerida en cada ocasión es exactamente la misma, la concentración de alcohol en la sangre también será la misma."
+],
+[
+"E",
+"La Respuesta B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"A la mayoría de los conductores se les cansa la vista después de conducir más O menos media hora"
+],
+[
+"B",
+"El campo visual se reduce, ya que a esa velocidad se tiende a fijar la mirada recta a lo lejos."
+],
+[
+"C",
+"La Respuesta B y D, son Correctas."
+],
+[
+"D",
+"La visión se adapta automáticamente a la alta velocidad y, por lo tanto, el resto del tránsito se percibe igual que al ir a una velocidad baja."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"La visión se adapta automáticamente a la alta velocidad y, por lo tanto, el resto del tránsito se percibe igual que al ir a una velocidad baja."
+],
+[
+"B",
+"A la mayoría de los conductores se les cansa la vista después de conducir más o menos media hora."
+],
+[
+"C",
+"La Respuesta A y D, son Correctas."
+],
+[
+"D",
+"Resulta más difícil percibir movimientos a los lados de la carretera"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Un modo de conducir arriesgado"
+],
+[
+"B",
+"Reacciones retardadas"
+],
+[
+"C",
+"Una disminución de sus capacidades"
+],
+[
+"D",
+"Todas las anteriores"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Aproximadamente a la hora de haberlas ingerido"
+],
+[
+"B",
+"A las 2 horas de haberlas ingerido, más o menos"
+],
+[
+"C",
+"A las 2 1/2 horas de haberlas ingerido, más o menos"
+],
+[
+"D",
+"Inmediatamente"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No"
+],
+[
+"B",
+"Sí"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Sí, se ve aumentado"
+],
+[
+"B",
+"Sí, se ve disminuido"
+],
+[
+"C",
+"No, el alcohol no afecta al tiempo de reacción."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Se comienza a sentir calor y agresividad."
+],
+[
+"B",
+"Se comienza a sentir falta de interés y aparecen los bostezos"
+],
+[
+"C",
+"Se comienza a sentir dificultad para mantener la dirección"
+],
+[
+"D",
+"Se comienza a sentir que los párpados se cierran."
+],
+[
+"E",
+"Todas las anteriores"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Aumenta su capacidad de reacción"
+],
+[
+"B",
+"Aumenta su concentración"
+],
+[
+"C",
+"Disminuye su capacidad de reacción"
+],
+[
+"D",
+"Aumenta su rendimiento"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"La capacidad de concentración y la seguridad"
+],
+[
+"B",
+"El tiempo de reacción"
+],
+[
+"C",
+"La sensibilidad al deslumbramiento durante la noche."
+],
+[
+"D",
+"La Respuesta A, B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Conductor que siente apremio por falta de tiempo puede subestimar los riesgos de la alta velocidad"
+],
+[
+"B",
+"Los conductores ven principalmente aquello que les interesa en un momento y lo que esperan ver"
+],
+[
+"C",
+"Varios conductores que ven lo mismo perciben las situaciones de tránsito también del mismo modo"
+],
+[
+"D",
+"También a los conductores experimentados a veces les pasan inadvertidas informaciones importantes"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El factor humano es el principal causante de que ocurran situaciones de riesgo en el tránsito"
+],
+[
+"B",
+"La falta de atención a las condiciones del tránsito es una de las principales causa de accidentes"
+],
+[
+"C",
+"Un conductor que va con mucha prisa tiende a subestimar los riesgos"
+],
+[
+"D",
+"Discutir con alguien o estar pendiente de la música de la radio, aumenta las posibilidades de pasar por alto circunstancias importantes en el tránsito."
+],
+[
+"E",
+"Todas las anteriores."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Los conductores inexpertos concentran su mirada en puntos fijos"
+],
+[
+"B",
+"Los conductores inexpertos aprovechan al máximo su visión periférica"
+],
+[
+"C",
+"Los conductores inexpertos observan el entorno que los rodea en forma más sistemática que los conductores experimentados"
+],
+[
+"D",
+"No hay mayores diferencias en cuanto a cómo observan el entorno los conductores inexpertos y los de gran experiencia."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"El tener una buena visión es imprescindible para poder captar las diversas situaciones que se presentan al conducir"
+],
+[
+"B",
+"Existe un alto riesgo que los conductores cuyo campo visual no es lo suficientemente amplio, no alcancen a reaccionar a tiempo ante peligros provenientes de los lados"
+],
+[
+"C",
+"Si usted conduce durante un largo tiempo en condiciones difíciles, puede tener problemas para apreciar correctamente lo que ve y por lo tanto, tomar decisiones equivocadas"
+],
+[
+"D",
+"Las personas jóvenes son más sensibles a la luz deslumbrante que los mayores"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Cuando va por un camino montañoso y con muchas sinuosidades, y la visibilidad es muy mala"
+],
+[
+"B",
+"Cuando usted está muy cansado, especialmente si conduce de noche"
+],
+[
+"C",
+"Cuando va por carretera y existe una densa niebla"
+],
+[
+"D",
+"Cuando con buenas condiciones de visibilidad usted conduce por una carretera con buenas demarcaciones viales."
+],
+[
+"E",
+"La Respuesta A, B y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Que debe anticiparse a las situaciones riesgosas"
+],
+[
+"B",
+"Que debe contar siempre con los errores de los demás"
+],
+[
+"C",
+"Que debe exigir que se respeten sus preferencias."
+],
+[
+"D",
+"La Respuesta A y B, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No conducir tan pronto haya ingerido el remedio, sino que esperar un rato"
+],
+[
+"B",
+"Conducir siempre que se sienta bien"
+],
+[
+"C",
+"Consultar con el Medico."
+],
+[
+"D",
+"Solicitar consejo a un amigo o pariente"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Limitar su conducción sólo a viajes esenciales"
+],
+[
+"B",
+"Conducir solamente acompañado por alguien que posea una licencia de conducir"
+],
+[
+"C",
+"Conducir sólo distancias cortas."
+],
+[
+"D",
+"Solicitar consejo médico antes de conducir"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Porque algunas medicinas pueden hacer que sus reacciones sean más lentas"
+],
+[
+"B",
+"Porque las drogas influyen en su conducción al hacer más rápidas sus reacciones"
+],
+[
+"C",
+"Porque en caso de accidente no estaría cubierto por el Seguro Obligatorio"
+],
+[
+"D",
+"Porque las medicinas que está tomando pueden afectar su visión."
+],
+[
+"E",
+"La Respuesta A y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Aumentar su velocidad para encontrar pronto un lugar donde detenerse"
+],
+[
+"B",
+"Golpear suave y repetidamente el manubrio"
+],
+[
+"C",
+"Asegurarse de que entre aire fresco a su vehículo"
+],
+[
+"D",
+"Modificar permanentemente la velocidad para mejorar la concentración"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Que se vuelva a casa en taxi"
+],
+[
+"B",
+"Que tome una taza de café cargado y luego conduzca a casa"
+],
+[
+"C",
+"Que se vuelva a casa conduciendo lenta y muy cuidadosamente"
+],
+[
+"D",
+"Que espere un rato antes de irse conduciendo a casa"
+],
+[
+"E",
+"Todas las anteriores"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Hacerle saber cómo se siente"
+],
+[
+"B",
+"Encender y apagar sus luces delanteras repetidamente"
+],
+[
+"C",
+"Tratar de no reaccionar"
+],
+[
+"D",
+"Tocar la bocina"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Conducir a casa lentamente por calles tranquilas"
+],
+[
+"B",
+"Encontrar una forma de llegar a casa sin manejar"
+],
+[
+"C",
+"Pedir prestados los anteojos a un amigo para volver conduciendo a casa"
+],
+[
+"D",
+"Manejar hasta su casa de noche para que las luces lo ayuden"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Tomar una medicina antes de conducir"
+],
+[
+"B",
+"Acortar el viaje si puede"
+],
+[
+"C",
+"No manejar"
+],
+[
+"D",
+"Prometerse a sí mismo que se va a acostar tan pronto haya llegado a casa"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"El cansancio es una causa importante de los accidentes que se registran en carreteras."
+],
+[
+"B",
+"Un conductor cansado ve empeorada su capacidad de reacción"
+],
+[
+"C",
+"Si un conductor está cansado, lo mejor es que su acompañante le vaya hablando permanentemente"
+],
+[
+"D",
+"El desorientarse y plantearse preguntas tales como, Pasé ya la ciudad, o aún no?, Es un síntoma de cansancio."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Detenerse y comer una gran comida"
+],
+[
+"B",
+"Detenerse inmediatamente y respirar profundo"
+],
+[
+"C",
+"Terminar el viaje y después dormir"
+],
+[
+"D",
+"Detenerse y dormir una pequeña siesta o detenerse y tomar un poco de café"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Beber bastante café después de ingerir bebidas alcohólicas"
+],
+[
+"B",
+"Evitar consumir alcohol"
+],
+[
+"C",
+"Evitar circular por calles de mucho tráfico después de beber alcohol"
+],
+[
+"D",
+"Evitar beber alcohol con el estómago vacío"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Disminuir la velocidad y ubicarse en el carril de circulación lenta"
+],
+[
+"B",
+"Tocar la bocina e intentar pasar delante del auto"
+],
+[
+"C",
+"Hace señales con las manos"
+],
+[
+"D",
+"Girar a la derecha el auto y tratar de orillarlo"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Su capacidad de coordinación se reducirá"
+],
+[
+"B",
+"Su autoconfianza se incrementará"
+],
+[
+"C",
+"La Respuesta A y B, son Correctas."
+],
+[
+"D",
+"Sus reacciones serán más rápida"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Sus reacciones serán más lentas"
+],
+[
+"B",
+"Su capacidad de concentración aumentará"
+],
+[
+"C",
+"Su juicio empeorará"
+],
+[
+"D",
+"Su auto confianza aumentará"
+],
+[
+"E",
+"La Respuesta A, C y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Acelera sus reacciones"
+],
+[
+"B",
+"Aumenta su lucidez"
+],
+[
+"C",
+"Mejora su coordinación"
+],
+[
+"D",
+"Reduce su concentración"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Falsa sensación de confianza"
+],
+[
+"B",
+"Mayor conciencia del peligro"
+],
+[
+"C",
+"Menor control del vehículo"
+],
+[
+"D",
+"Escaso juicio de la velocidad"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Una taza de café"
+],
+[
+"B",
+"Determinados medicamentos"
+],
+[
+"C",
+"Una taza de té"
+],
+[
+"D",
+"Una bebida gaseosa"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Su estado de salud"
+],
+[
+"B",
+"El estado de la calzada"
+],
+[
+"C",
+"La velocidad de su vehículo"
+],
+[
+"D",
+"Las condiciones climáticas"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando hace funcionar los limpiaparabrisas"
+],
+[
+"B",
+"Cuando mira a través del espejo retrovisor"
+],
+[
+"C",
+"Cuando va escuchando música a alto volumen"
+],
+[
+"D",
+"Cuando toca la bocina"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Cuando utiliza un teléfono celular"
+],
+[
+"B",
+"Cuando hace funcionar los limpiaparabrisas"
+],
+[
+"C",
+"Cuando acelera"
+],
+[
+"D",
+"Cuando toca la bocina"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando mira un mapa del camino"
+],
+[
+"B",
+"Cuando utiliza un teléfono celular"
+],
+[
+"C",
+"Cuando va escuchando música a alto volumen"
+],
+[
+"D",
+"Todas las anteriores"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Para darle una lección. Ud. tampoco lo deja entrar a la fila"
+],
+[
+"B",
+"Le permite incorporarse a la fila delante de él"
+],
+[
+"C",
+"Tampoco lo deja entrar y más aún le hace señas con las manos haciéndole ver su error"
+],
+[
+"D",
+"Nada. porque no es asunto suyo"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Dar por seguro que el conductor manejará muy mal"
+],
+[
+"B",
+"Estar consciente de que las reacciones del conductor pueden no ser tan rápidas como las suyas"
+],
+[
+"C",
+"Encender y apagar sus luces y adelantarlo"
+],
+[
+"D",
+"Mantenerse cerca tras él y conducir cuidadosamente"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Enciende y apaga sus luces para manifestarle su enojo"
+],
+[
+"B",
+"Ignora el error y permanece calmado"
+],
+[
+"C",
+"Toca la bocina para demostrar su enojo"
+],
+[
+"D",
+"Lo adelanta dejándolo atrás lo antes posible"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Les toca la bocina para apurarlos"
+],
+[
+"B",
+"Tiene paciencia y espera"
+],
+[
+"C",
+"Prosigue su marcha"
+],
+[
+"D",
+"Les hace señas con la mano apurándolos para que crucen"
+],
+[
+"E",
+"La Respuesta B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Al usar los frenos"
+],
+[
+"B",
+"Al comenzar a subir una pendiente"
+],
+[
+"C",
+"Al virar hacia un camino angosto"
+],
+[
+"D",
+"Al pasar cerca de ciclistas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"El ciclista podría avanzar sorpresivamente por la calzada"
+],
+[
+"B",
+"El ciclista respetará con toda seguridad la preferencia que Ud. tiene"
+],
+[
+"C",
+"El ciclista podría mirar a su izquierda y no obstante ello descender a la calzada"
+],
+[
+"D",
+"El ciclista no tiene intención de bajar a la calzada porque conversa con un amigo"
+],
+[
+"E",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"El ciclista que va delante de él podría doblar a la izquierda para seguir a su amigo"
+],
+[
+"B",
+"El ciclista que va delante de él podría doblar a la izquierda sin efectuar señal alguna"
+],
+[
+"C",
+"Es seguro que el ciclista que va delante de él va a seguir derecho, porque no ha efectuado señal alguna para indicar que va a virar"
+],
+[
+"D",
+"Es seguro que el ciclista que va delante de él se desplazará hacia la derecha para dejarle pasar"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Poco menos de 1.0 m, y al pasar toca la bocina"
+],
+[
+"B",
+"Sólo unos 50 cm, porque los ciclistas no circulan muy rápido"
+],
+[
+"C",
+"Al menos 1.5 m"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Disminuye la velocidad, está preparado para frenar y sigue con mucho cuidado"
+],
+[
+"B",
+"Sólo toca la bocina y continúa a la misma velocidad"
+],
+[
+"C",
+"No toca la bocina y sigue a igual velocidad porque los niños están en la vereda"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Seguir a la misma velocidad para no molestar a los vehículos que vengan detrás de él"
+],
+[
+"B",
+"Seguir a la misma velocidad porque los niños, con seguridad, lo dejarán pasar"
+],
+[
+"C",
+"Frenar y continuar preparado para detenerse"
+],
+[
+"D",
+"Solo conducir a la velocidad reglamentada para la zona."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Ud. sólo debe fijarse en los vehículos que se encuentran detrás de él"
+],
+[
+"B",
+"Ud. debe mirar por su espejo sí hay algún ciclista a su derecha, que eventualmente podría seguir derecho"
+],
+[
+"C",
+"Ud. sólo debe concentrarse en la maniobra de viraje que va a realizar, ya que si hubiera un ciclista a su derecha él tendría que esperar"
+],
+[
+"D",
+"Ud. sólo debe fijarse en el tráfico que viene en contra"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Precavidamente, a una distancia lateral suficiente, porque podría aparecer un peatón delante del bus."
+],
+[
+"B",
+"Ud. no puede sobrepasar a un bus detenido en una parada"
+],
+[
+"C",
+"Pasando lo más cerca posible del bus, para que su conductor lo pueda ver a través de su espejo"
+],
+[
+"D",
+"Esperando a que el bus reanude la marcha."
+],
+[
+"E",
+"La Respuesta A y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Pasar a no más del ancho de una puerta de ellos"
+],
+[
+"B",
+"Pasar dejando a lo menos un espacio equivalente al ancho de una puerta"
+],
+[
+"C",
+"Pasar a no menos de 2 metros de ellos"
+],
+[
+"D",
+"Pasar a no menos de 3 metros de ellos"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"A una distancia suficiente para no pasar a llevar los espejos retrovisores"
+],
+[
+"B",
+"A unos 50 centímetros"
+],
+[
+"C",
+"A una distancia equivalente al ancho de una puerta"
+],
+[
+"D",
+"A un metro de distancia."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Con un buen comportamiento de los niños respecto del tránsito."
+],
+[
+"B",
+"Con un comportamiento irreflexivo de los niños"
+],
+[
+"C",
+"Con reacciones rápidas y correctas de los niños"
+],
+[
+"D",
+"Con que los niños están atentos a los peligros del tránsito"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"SI, si el perro corre repentinamente por la calzada tirando del niño."
+],
+[
+"B",
+"Si, si el perro se suelta el niño le sigue"
+],
+[
+"C",
+"La Respuesta A y B, son Correctas."
+],
+[
+"D",
+"No, porque independientemente de lo que puedan hacer el perro los niños saben que no deben bajar sorpresivamente a la calzada"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Reducir la velocidad y continuar preparado para frenar"
+],
+[
+"B",
+"Tocar la bocina y continuar"
+],
+[
+"C",
+"Continuar a la misma velocidad para no entorpecer a quienes vienen detrás de él"
+],
+[
+"D",
+"Continuar a la misma velocidad porque los niños saben que no pueden bajar a la calzada"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Uno de los niños podría devolverse a buscar la pelota"
+],
+[
+"B",
+"El niño de la derecha podría correr siguiendo a su amigo"
+],
+[
+"C",
+"Con toda seguridad, los niños esperarán en la orilla de la calle hasta que Ud. haya pasado."
+],
+[
+"D",
+"La Respuesta A y B, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Continúa sin prestar mayor atención, porque los niños van por la orilla"
+],
+[
+"B",
+"Continúa sin mayor precaución, porque no se ven otros vehículos en la calle"
+],
+[
+"C",
+"Presta atención a los niños y continúa con precaución."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Espera, pues pueden cruzar peatones"
+],
+[
+"B",
+"Señaliza y sobrepasa al camión"
+],
+[
+"C",
+"Pasa rápidamente tocando la bocina para alertar de su presencia"
+],
+[
+"D",
+"Pasa rápidamente si delante de él no ve peatones."
+],
+[
+"E",
+"La Respuesta A y B, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Ella podría devolverse estando en medio de la calle"
+],
+[
+"B",
+"Ella podría no poner atención al tránsito de vehículos"
+],
+[
+"C",
+"Ella podría detenerse de pronto en medio de la calle."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Que descienda inesperadamente a la calzada"
+],
+[
+"B",
+"Que no mire ni a la izquierda ni a la derecha."
+],
+[
+"C",
+"La Respuesta A, B y D, son Correctas."
+],
+[
+"D",
+"Que a mitad del cruce se devuelva."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Porque con frecuencia ellos ven y escuchan menos"
+],
+[
+"B",
+"Porque con frecuencia ellos reaccionan más lentamente y tienen menos movilidad"
+],
+[
+"C",
+"Porque con frecuencia ellos calculan mal la velocidad de los vehículos."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Para superar el efecto de pendiente de la calzada"
+],
+[
+"B",
+"Para tener una mejor visual sobre el camino"
+],
+[
+"C",
+"Para permitirle el adelantamiento a quienes vienen rápido detrás de él"
+],
+[
+"D",
+"Para estar en una ubicación más segura en caso que el vehículo pierda potencia."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Un espacio equivalente al que usted recorre en 3 segundos"
+],
+[
+"B",
+"Un espacio igual a lo largo de un auto."
+],
+[
+"C",
+"La separación entre dos (2) vehículos que circulen uno tras de otro en el mismo carril de una calzada, será de acuerdo con la velocidad (Articulo 108 CNT)"
+],
+[
+"D",
+"Un espacio igual a lo largo de 3 autos"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"De las condiciones de visibilidad"
+],
+[
+"B",
+"De la velocidad"
+],
+[
+"C",
+"Del estado de la calzada."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Mantenerse bien a la derecha ya que así tardará menos en pasar la curva"
+],
+[
+"B",
+"Mantenerse bien a la derecha para tener una mejor visual sobre la curva"
+],
+[
+"C",
+"Mantenerse bien a la izquierda para evitar Cualquier obstáculo que pueda haber en la cuneta"
+],
+[
+"D",
+"Mantenerse bien a la izquierda para hacer la curva menos pronunciada"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Avanzar rápidamente, pero estando preparado para detenerse"
+],
+[
+"B",
+"Tocar la bocina y avanzar lentamente"
+],
+[
+"C",
+"Detenerse, luego avanzar lentamente hasta que tenga una visual plena"
+],
+[
+"D",
+"Tocar la bocina y avanzar rápidamente."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Continuar a la misma velocidad, tocando la bocina"
+],
+[
+"B",
+"Continuar a la misma velocidad, pero encendiendo y apagando sus luces delanteras"
+],
+[
+"C",
+"Detenerse y señalar con la mano para que los niños crucen a recoger la pelota"
+],
+[
+"D",
+"Disminuir la velocidad y estar preparado para detenerse si aparece un niño"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Acelerar el motor o tocar la bocina"
+],
+[
+"B",
+"Cambiar a una marcha más baja"
+],
+[
+"C",
+"Usar los señalizadores de viraje"
+],
+[
+"D",
+"Tener las luces encendidas"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Deja un espacio lateral suficiente"
+],
+[
+"B",
+"La Respuesta A, C y D, son Correctas."
+],
+[
+"C",
+"Conduce lentamente"
+],
+[
+"D",
+"Toca la bocina levemente"
+],
+[
+"E",
+"Está preparado para detenerse."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Disminuye la velocidad y está preparado para frenar"
+],
+[
+"B",
+"Aumenta la velocidad para alejarse rápido por el lugar"
+],
+[
+"C",
+"Frena violentamente en forma inmediata"
+],
+[
+"D",
+"Aumenta la velocidad y toca levemente la bocina para alertar a los animales"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Pueden salir vehículos de su estacionamiento"
+],
+[
+"B",
+"Alguien puede abrir una puerta de un auto estacionado"
+],
+[
+"C",
+"Entre los autos estacionados puede aparecer un niño o peatón corriendo."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"A una distancia tal que el parachoques de su vehículo apenas tope al vehículo de adelante"
+],
+[
+"B",
+"A unos 4 ó 5 metros"
+],
+[
+"C",
+"A una distancia tal que a Usted le permita ver los neumáticos traseros del vehículo de adelante."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Mantenerse bien a la derecha y reducir la velocidad"
+],
+[
+"B",
+"Encender sus luces de advertencia para alertar al tránsito que viene en contra"
+],
+[
+"C",
+"Aumentar la velocidad y tocar la bocina"
+],
+[
+"D",
+"La Respuesta A y B, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Aumentar la velocidad"
+],
+[
+"B",
+"Tocar la bocina"
+],
+[
+"C",
+"Asegurarse de que puede realizar la maniobra sin peligro y de que no viene tránsito en contra"
+],
+[
+"D",
+"Asegurarse que no vengan vehículos detrás de él."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Es importante que la velocidad del vehículo que esta adelantado sea menor que la del que adelanta."
+],
+[
+"B",
+"No importa que al adelantar la velocidad máxima permitida se supere en un 20%"
+],
+[
+"C",
+"Es importante que el vehículo adelantado no aumente su velocidad."
+],
+[
+"D",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Cuando cambia de pista después del adelantamiento para retomar la pista por la cuál venía"
+],
+[
+"B",
+"Cuando ingresa a la \"sombra del viento\" del camión"
+],
+[
+"C",
+"Cuando sale de la \"sombra del viento\" del camión."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Frente a los niños"
+],
+[
+"B",
+"Frente a las personas ancianas"
+],
+[
+"C",
+"Frente a los ciclistas"
+],
+[
+"D",
+"Frente a personas con discapacidad."
+],
+[
+"E",
+"La Respuesta A, B, C y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Al descender del vehículo, abrir la puerta del lado izquierdo nunca es peligroso"
+],
+[
+"B",
+"Es más seguro que sus acompañantes siempre suban y bajen del auto por el lado de la berma."
+],
+[
+"C",
+"Antes de abrir su puerta para bajar, Ud. debe asegurarse que no vengan vehículos."
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+],
+[
+"E",
+"Si Ud. ha señalizado con el brazo que se va a bajar del vehículo, tiene todo el derecho a abrir su puerta cuando quiera y los otros conductores deberán tomar las medidas del caso"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Reducir la velocidad."
+],
+[
+"B",
+"Reducir la velocidad aplicando especialmente los principios de paciencia y tolerancia."
+],
+[
+"C",
+"Seguir a la misma velocidad ya que el bus viene en el otro sentido"
+],
+[
+"D",
+"Seguir a la misma velocidad, pero siempre que no vea peatones que deseen cruzar la calle para alcanzar el bus"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Disminuir la velocidad y estar preparado para frenar"
+],
+[
+"B",
+"La Respuesta B y C, son Correctas."
+],
+[
+"C",
+"Estar atento a la posibilidad de que aparezcan niños en la calzada"
+],
+[
+"D",
+"Continuar a la misma velocidad, porque no se debe bajar sorpresivamente a la calzada."
+],
+[
+"E",
+"Esquivar la pelota y alejarse rápido del lugar"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Al sobrepasar al bus Ud. debe estar preparado para detenerse"
+],
+[
+"B",
+"Los vehículos que van por la pista de la izquierda pueden continuar circulando sin ninguna precaución especial"
+],
+[
+"C",
+"Tanto los vehículos que van por la pista izquierda como los que van por la suya deben circular con precaución."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Debe concentrarse sólo en el vehículo que va inmediatamente adelante."
+],
+[
+"B",
+"Debe mantener un espacio suficiente respecto del vehículo que va adelante, de tal modo que posibilite que otro vehículo lo adelante a usted e ingrese a dicho espacio."
+],
+[
+"C",
+"Debe mirar a buena distancia hacia adelante, eventualmente a través de los cristales de los otros vehículos, a fin de poder moderar la velocidad a tiempo si alguien frena."
+],
+[
+"D",
+"Debe mantenerse atento a los vehículos que van tanto adelante como atrás."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Al tránsito que viene desde la derecha"
+],
+[
+"B",
+"Al tránsito que viene desde la izquierda"
+],
+[
+"C",
+"A los peatones que se desplazan por la cera o anden"
+],
+[
+"D",
+"A los vehículos estacionados en las proximidades de su casa"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Reduce su velocidad y contesta."
+],
+[
+"B",
+"Espera hasta encontrar un lugar seguro donde detenerse para contestar."
+],
+[
+"C",
+"Conduce con una mano en el volante y contesta el móvil."
+],
+[
+"D",
+"Es especialmente cauteloso en las intersecciones pero contesta oportunamente."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Si su vehículo tiene cambio automático"
+],
+[
+"B",
+"Si necesita efectuar una llamada de emergencia"
+],
+[
+"C",
+"Cuando disponga de manos libres y/o se detenga en la berma."
+],
+[
+"D",
+"Al circular por un camino secundario"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Manteniéndose bien atrás del camión hasta que pueda ver que tiene espacio suficiente como para adelantarlo."
+],
+[
+"B",
+"Esperando atrás del camión hasta que su conductor le indique que puede adelantarlo"
+],
+[
+"C",
+"Encendiendo y apagando sus luces para que quienes vienen en contra le faciliten el adelantamiento"
+],
+[
+"D",
+"Seguir muy de cerca al camión desplazándose permanentemente hacia el centro de la calzada para poder ver hacia adelante"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Circular cerca del centro de la calzada para evitar que otros lo adelanten peligrosamente"
+],
+[
+"B",
+"Correrse hacia la derecha cuando pueda hacerlo en forma segura, para permitir que otros lo adelanten."
+],
+[
+"C",
+"Hacer indicaciones con la mano a los otros conductores cuando usted crea que podrán adelantarlo rápidamente."
+],
+[
+"D",
+"Señalizar con su intermitente derecho cuando adelantar no sea peligroso para los otros."
+],
+[
+"E",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Señaliza a la derecha y le indica con la mano para que lo adelante"
+],
+[
+"B",
+"Disminuye la velocidad y le permite que lo adelante."
+],
+[
+"C",
+"No hace nada y se mantiene dentro del límite de velocidad."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Porque generalmente las motocicletas circulan más rápido que los autos"
+],
+[
+"B",
+"Porque las patrullas de Carabineros suelen andar en motocicletas"
+],
+[
+"C",
+"Porque las motocicletas circulan rápido no encienden luces y son difíciles de ver."
+],
+[
+"D",
+"Porque las motocicletas tienen el derecho preferente de paso."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Porque su velocidad puede ser subestimada"
+],
+[
+"B",
+"Porque circulan a altas velocidades y son difíciles de ver."
+],
+[
+"C",
+"Porque en caso de accidente tienen un alto riesgo de sufrir lesiones."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Si es suficientemente ancho el espacio a la izquierda del vehículo que va adelante"
+],
+[
+"B",
+"La distancia respecto al vehículo que viene en sentido contrario."
+],
+[
+"C",
+"La longitud de la distancia de adelantamiento."
+],
+[
+"D",
+"La Respuesta B, C y E, son Correctas."
+],
+[
+"E",
+"El punto de encuentro con el vehículo que viene en sentido contrario."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Frena ligeramente y vuelve al carril derecho."
+],
+[
+"B",
+"Acelera y adelanta, porque el auto que usted adelanta tiene la obligación de reducir la velocidad"
+],
+[
+"C",
+"Acelera y adelanta tan rápido como pueda, para no obstaculizar al que viene detrás de él"
+],
+[
+"D",
+"Acelera y adelanta, ya que el ancho de la calzada es suficiente para 3 vehículos sí el que viene en contra se corre bien a su derecha"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Al ir usted bajando un cerro"
+],
+[
+"B",
+"La Respuesta C y D, son Correctas."
+],
+[
+"C",
+"Al ir usted en una curva a la izquierda"
+],
+[
+"D",
+"Al ir usted en una curva a la derecha"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Para tener una mejor visual hacia adelante sobre la vía"
+],
+[
+"B",
+"Para tener espacio suficiente que le permita acelerar y adelantar en las curvas"
+],
+[
+"C",
+"Para tener espacio suficiente en caso que el vehículo se detenga y retroceda;"
+],
+[
+"D",
+"Para poder ver mejor las señales que le pueda hacer su conductor."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Porque los camiones pueden detenerse sorpresivamente"
+],
+[
+"B",
+"Porque los camiones son más largos que los autos"
+],
+[
+"C",
+"Porque los frenos de los camiones no son tan buenos"
+],
+[
+"D",
+"Porque los camiones suben las pendientes más lentamente"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"En una estación de servicio"
+],
+[
+"B",
+"En los cruces o intercesiones de las vías."
+],
+[
+"C",
+"En las proximidades de un área de servicio"
+],
+[
+"D",
+"Al ingresar a un recinto o área de estacionamientos"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Adelanta al ciclista antes del cruce"
+],
+[
+"B",
+"Rodea al ciclista en el cruce"
+],
+[
+"C",
+"Se mantiene detrás del ciclista hasta que éste haya pasado la intersección"
+],
+[
+"D",
+"Se sitúa al lado del ciclista, sigue en línea recta y desiste de virar"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Conduciendo lentamente y dejando suficiente espacio lateral"
+],
+[
+"B",
+"Acercándose hacia el centro de la calzada"
+],
+[
+"C",
+"Adelantando por la izquierda y acelerando"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Con señales acústicas, únicamente"
+],
+[
+"B",
+"Con señales luminosas, únicamente"
+],
+[
+"C",
+"Con señales acústicas y/o con destellos de luces altas y bajas"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Si, pero sólo si resulta seguro hacerlo"
+],
+[
+"B",
+"Si, porque en este caso rige la regla de la mano derecha"
+],
+[
+"C",
+"Si, porque él no enfrenta una señal Pare o Ceda el Paso"
+],
+[
+"D",
+"No, porque Ud., va por un camino principal y él lo hace por una vía secundaria"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Al ingresar a una glorieta Ud. debe ceder el paso a los vehículos que circulan por ella"
+],
+[
+"B",
+"Al ingresar a una mini-glorieta Ud. debe ceder el paso a los vehículos que circulan por ella"
+],
+[
+"C",
+"Las normas sobre el derecho preferente de paso son iguales tratándose de glorietas y de Mini- glorietas"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Para llamar la atención de un amigo"
+],
+[
+"B",
+"Por Seguridad para prevenir la ocurrencia de un accidente."
+],
+[
+"C",
+"Para que le cedan el paso"
+],
+[
+"D",
+"Para apurar a un conductor que va más lento"
+],
+[
+"E",
+"Todas las anteriores"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Cuando hay peatones esperando para cruzar"
+],
+[
+"B",
+"Cuando pasado el cruce su pista no esté lo suficientemente despejada"
+],
+[
+"C",
+"Cuando usted cree que la luz está próxima a cambiar"
+],
+[
+"D",
+"Cuando usted va a girar a la derecha"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Si no hay nadie detrás suyo"
+],
+[
+"B",
+"La Respuesta C y D, son Correctas"
+],
+[
+"C",
+"Sólo si ha quedado detenido sobre la cebra en el paso para peatones"
+],
+[
+"D",
+"Sólo si recibe indicación expresa de una Autoridad de Transito."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"No, en ninguna circunstancia"
+],
+[
+"B",
+"Si, siempre que usted pueda ver sin problemas hacia atrás"
+],
+[
+"C",
+"Si, si son menores de 10 anos"
+],
+[
+"D",
+"No, a menos que los demás asientos estén ocupados"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Desplazarse rápidamente hasta la pista adyacente y sobrepasarlo"
+],
+[
+"B",
+"Tocar la bocina para advertir su presencia"
+],
+[
+"C",
+"Sobrepasarlo por la derecha mientras él se desplace hada la izquierda"
+],
+[
+"D",
+"Mantenerse detrás de él hasta que finalice su maniobra"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No acelerar y conducir lo más a la derecha posible"
+],
+[
+"B",
+"Se desplaza hacia la berma y circula por ella"
+],
+[
+"C",
+"Enciende sus luces de advertencia de peligro"
+],
+[
+"D",
+"Acelera levemente"
+]
+],
+"answer": "A"
+}
+],
+"III": [
+{
+"options": [
+[
+"A",
+"Taxis"
+],
+[
+"B",
+"Buses"
+],
+[
+"C",
+"Carga"
+],
+[
+"D",
+"Transporte Oficial"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Sobre una zona escolar"
+],
+[
+"B",
+"Sobre una vía férrea"
+],
+[
+"C",
+"En paso peatonal, cruce o intersección"
+],
+[
+"D",
+"En un carril exclusivo para peatones."
+],
+[
+"E",
+"La Respuesta C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"El carril de la derecha con precaución"
+],
+[
+"B",
+"El carril de la izquierda con precaución"
+],
+[
+"C",
+"No se pueden realizar adelantamientos"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Bicicletas"
+],
+[
+"B",
+"Motocicletas, Motociclos"
+],
+[
+"C",
+"Tracción animal"
+],
+[
+"D",
+"Todas las anteriores"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"En intersecciones"
+],
+[
+"B",
+"En los tramos de la vía en donde exista línea separadora central continua o prohibición de adelantamiento."
+],
+[
+"C",
+"La Respuesta A, B y D, son Correctas"
+],
+[
+"D",
+"En curvas o pendientes."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"En vías nacionales"
+],
+[
+"B",
+"La Respuesta C y D, son Correctas"
+],
+[
+"C",
+"Cuando la visibilidad sea desfavorable"
+],
+[
+"D",
+"En las proximidades de pasos de peatones"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Vías troncales"
+],
+[
+"B",
+"En las intersecciones de las vías férreas"
+],
+[
+"C",
+"Por la berma o por la derecha de un vehículo"
+],
+[
+"D",
+"Cuando la maniobra ofrezca peligro"
+],
+[
+"E",
+"La Respuesta B, C y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Un código de información colocadas al lado y lado de la vía que regulan el comportamiento de los conductores."
+],
+[
+"B",
+"Un sistema directo de comunicación mediante el cuál se emiten mensajes convencionales a conductores y usuarios de las vías, para que estos respondan con un comportamiento adecuado."
+],
+[
+"C",
+"Un sistema de elementos pintados en el piso, que informan a las personas que transitan por una vía como y por donde debe desplazarse."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Advertir peligros"
+],
+[
+"B",
+"Aplicar multas"
+],
+[
+"C",
+"Ordenar él tránsito"
+],
+[
+"D",
+"Recordar normas"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Adornar la ciudad"
+],
+[
+"B",
+"Informar a los usuarios"
+],
+[
+"C",
+"Aumentar la seguridad"
+],
+[
+"D",
+"Mejorar la movilidad de las personas."
+],
+[
+"E",
+"La Respuesta A y D, son Correctas"
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Son marcas que se dibujan en el pavimento y tienen como función principal complementar las demás señales de tránsito."
+],
+[
+"B",
+"Son líneas, símbolos, figuras, palabras o números que se colocan sobre el pavimento para indicarle a los usuarios de la vía, por donde y como deben desplazarse."
+],
+[
+"C",
+"Toda señal de tránsito que va sobre la vía."
+],
+[
+"D",
+"La Respuesta B y C, son Correctas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Marcas viales"
+],
+[
+"B",
+"Líneas longitudinales"
+],
+[
+"C",
+"Líneas transversales"
+],
+[
+"D",
+"Dispositivos sonoros"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Reglamentarias, informativas y preventivas"
+],
+[
+"B",
+"Longitudinales y transversales"
+],
+[
+"C",
+"Blancas y amarillas"
+],
+[
+"D",
+"Rayas dobles continuas y discontinuas"
+]
+],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Delineador de curva"
+],
+[
+"B",
+"Final del pavimento"
+],
+[
+"C",
+"Superficie deslizante"
+],
+[
+"D",
+"Zona de derrumbe"
+]
+],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Delineador de curva"
+],
+[
+"B",
+"Final del pavimento"
+],
+[
+"C",
+"Superficie deslizante"
+],
+[
+"D",
+"Zona de derrumbe"
+]
+],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Circular con luces altas"
+],
+[
+"B",
+"Circular con luces bajas"
+],
+[
+"C",
+"Realizar cambio de luces"
+],
+[
+"D",
+"Encender las luces"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Que la carga debe medir 4,50 metros de alto"
+],
+[
+"B",
+"Que la altura máxima permitida es de 4,50 metros"
+],
+[
+"C",
+"Que el ancho del vehículo es de 4,50 metros"
+],
+[
+"D",
+"Que el ancho máximo permitido es de 4,50 metros"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Cargar o descargar pasajeros en este punto"
+],
+[
+"B",
+"Cargar o descargar mercancías en este punto"
+],
+[
+"C",
+"Parquear en este punto."
+],
+[
+"D",
+"Ni parquear Ni Detenerse."
+]
+],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Solo la A, es correcta"
+],
+[
+"B",
+"Sólo la B, es correcta"
+],
+[
+"C",
+"Sólo la C, es correcta"
+],
+[
+"D",
+"Todas las anteriores, son correctas"
+]
+],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Conservar el espacio reglamentario"
+],
+[
+"B",
+"Girar hacia la derecha"
+],
+[
+"C",
+"Girar hacia la izquierda"
+],
+[
+"D",
+"Adelantar el vehículo que va adelante"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Puede adelantar al vehículo que va adelante con cuidado"
+],
+[
+"B",
+"Que no puede realizar adelantamientos en ninguna sentido"
+],
+[
+"C",
+"Que la visibilidad y las condiciones geométricas de la vía son deficientes"
+],
+[
+"D",
+"Que puede cambiar de carril"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Adelantar el vehículo que va adelante por la derecha"
+],
+[
+"B",
+"Adelantar al vehículo que va adelante por la izquierda"
+],
+[
+"C",
+"Solo el vehículo que va por el carril de la derecha puede hacer adelantamientos o cambio de carril"
+],
+[
+"D",
+"Solo el vehículo que va por el carril de la izquierda puede hacer adelantamientos o cambio de carril"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Que no se debe adelantar al vehículo que va adelante"
+],
+[
+"B",
+"Que en esta parte de la vía hay riesgo de accidentes"
+],
+[
+"C",
+"Que las condiciones de la vía son peligrosas"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Que se puede adelantar a todos los vehículos"
+],
+[
+"B",
+"Cada lado de la línea, corresponde a un carril de circulación"
+],
+[
+"C",
+"Que por lado de la raya corresponde a un flujo de circulación"
+],
+[
+"D",
+"Que nadie puede salirse del cada carril demarcado por esta línea"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Transversales o diagonales blancas discontinuas"
+],
+[
+"B",
+"Transversales o diagonales blancas continuas"
+],
+[
+"C",
+"Longitudinales amarillas continuas"
+],
+[
+"D",
+"Longitudinales amarillas discontinuas"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Líneas longitudinales blancas continuas"
+],
+[
+"B",
+"Líneas transversales blancas discontinuas"
+],
+[
+"C",
+"Líneas longitudinales amarillas continuas"
+],
+[
+"D",
+"Líneas transversales amarillas discontinuas"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Líneas transversales amarillas discontinuas"
+],
+[
+"B",
+"Líneas transversales amarillas continuas"
+],
+[
+"C",
+"Líneas transversales blancas continuas"
+],
+[
+"D",
+"Líneas transversales blancas discontinuas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Son líneas que indican donde se debe detener un vehículo"
+],
+[
+"B",
+"Son líneas demarcadas con una inclinación de 40 grados de la línea de borde"
+],
+[
+"C",
+"Son líneas que indican que este espacio es para peatones, estacionamiento y tránsito de emergencia."
+],
+[
+"D",
+"Son espacios demarcados para el estacionamiento"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Con que los niños pueden jugar traviesamente y bajar a la calzada"
+],
+[
+"B",
+"Con que los niños siempre se comportan correctamente en la vía pública al salir del colegio"
+],
+[
+"C",
+"Con que los niños pueden cruzar inesperadamente la calzada"
+],
+[
+"D",
+"Con nada en particular, porque los niños saben que no deben bajar a la calzada en forma sorpresiva."
+],
+[
+"E",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"No, porque siempre en las afueras de los colegios hay un agente regulando el tránsito"
+],
+[
+"B",
+"No, porque a los niños se les enseña que siempre deben subir y bajar con mucho cuidado del vehículo"
+],
+[
+"C",
+"No, porque siempre hay personas mayores cuidando de los niños"
+],
+[
+"D",
+"Sí, porque algún niño podría correr sorpresivamente por la calzada"
+]
+],
+"answer": "D"
+},
+{
+"options": [],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Ellos siempre calculan correctamente la velocidad y distancia de los vehículos"
+],
+[
+"B",
+"La Respuesta C y D, son Correctas."
+],
+[
+"C",
+"Ellos pueden ir en un paso cebra y devolverse sin razón aparente"
+],
+[
+"D",
+"Ellos pueden correr sobre el paso sin fijarse en el tránsito"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Se detiene"
+],
+[
+"B",
+"Continúa a la misma velocidad."
+],
+[
+"C",
+"Acelera y pasa antes que cambie a rojo."
+],
+[
+"D",
+"Si no hay Autoridad de Transito o Cámara de Foto detección puede continuar."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Cuando ve peatones que desean cruzar"
+],
+[
+"B",
+"Cuando su visual sobre el cruce está obstaculizada"
+],
+[
+"C",
+"Cuando otro vehículo se ha detenido antes del cruce."
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Fijarse en el tránsito que le va siguiendo"
+],
+[
+"B",
+"Frenar fuerte antes de cambiarse"
+],
+[
+"C",
+"Anunciar oportunamente su intención de cambiarse a través de la direccional."
+],
+[
+"D",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"En la ciudad, en todos los cruces sin excepción, el que se aproxima por la derecha tiene preferencia"
+],
+[
+"B",
+"Las calles más anchas siempre tienen la preferencia"
+],
+[
+"C",
+"La regla de la mano derecha también rige en las glorietas"
+],
+[
+"D",
+"Una calle puede tener preferencia sobre otra aunque sea más angosta"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No, porque Ud. sólo debe ceder el paso a los vehículos que se aproximan por la derecha"
+],
+[
+"B",
+"Si, pero sólo si se trata de un vehículo pesado"
+],
+[
+"C",
+"Si, pero sólo si se trata de un vehículo de transporte de escolares"
+],
+[
+"D",
+"Si, porque en las rotondas tienen preferencia los vehículos que circulan por ella"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Lo más a la derecha posible"
+],
+[
+"B",
+"Justo a la izquierda de la línea de centro de calzada"
+],
+[
+"C",
+"Justo a la derecha de la línea de centro de calzada."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Saca el brazo izquierdo y lo extienden hacia arriba"
+],
+[
+"B",
+"Saca el brazo izquierdo formando escuadra hacia abajo"
+],
+[
+"C",
+"Saca el brazo izquierdo y lo extiende horizontalmente"
+],
+[
+"D",
+"Saca el brazo izquierdo formando escuadra con la mano hacia arriba"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Saca el brazo izquierdo y lo extienden hacia arriba"
+],
+[
+"B",
+"Saca el brazo izquierdo formando escuadra hacia abajo"
+],
+[
+"C",
+"Saca el brazo izquierdo y lo extiende horizontalmente"
+],
+[
+"D",
+"Saca el brazo izquierdo formando escuadra con la mano hacia arriba."
+]
+],
+"answer": "D"
+}
+],
+"IV": [
+{
+"options": [
+[
+"A",
+"Transitar en sentido contrario al estipulado para la vía, calzada o carril"
+],
+[
+"B",
+"Estacionar el vehículo en sitios prohibidos"
+],
+[
+"C",
+"Conducir un vehículo con vidrios polarizados, entintados u oscurecidos, sin portar el permiso respectivo"
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Remolcar otro vehículo violando lo dispuesto por el Código"
+],
+[
+"B",
+"Bloquear una calzada o intersección con un vehículo"
+],
+[
+"C",
+"Conducir un vehículo sobre aceras, plazas, vías peatonales, separadores, bermas, demarcaciones de canalización, zonas verdes, o vías especiales para vehículos no motorizados."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Estacionar un vehículo sin tomar las debidas precauciones o sin colocara a la distancia señalada por el código, las señales de peligro reglamentarias"
+],
+[
+"B",
+"Conducir un vehículo de transporte público individual de pasajeros sin cumplir con lo estipulado en el Código"
+],
+[
+"C",
+"No respetar las señales de tránsito."
+],
+[
+"D",
+"Conducir un vehículo con placas adulteradas, retocadas o alteradas."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Transitar por zonas prohibidas"
+],
+[
+"B",
+"No pagar el peaje en los sitios establecidos"
+],
+[
+"C",
+"No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo."
+],
+[
+"D",
+"Transitar en sentido contrario al estipulado para la vía, calzada o carril."
+]
+],
+"answer": "C"
+},
+{
+"options": [],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Dejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de carril."
+],
+[
+"B",
+"Conducir un vehículo con propaganda, publicidad o adhesivos en sus vidrios que obstaculicen la visibilidad"
+],
+[
+"C",
+"Conducir un vehículo con vidrios polarizados."
+],
+[
+"D",
+"Llevar niños menores de diez (10) años en el asiento delantero."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo: Con una sola placa, o sin el permiso vigente expedido por autoridad de tránsito"
+],
+[
+"B",
+"Permitir que en un vehículo de servicio público para transporte de pasajeros se lleven animales u objetos que incomoden a los pasajeros"
+],
+[
+"C",
+"Lavar el vehículo en la vía pública, en ríos, en canales, en quebradas etc."
+],
+[
+"D",
+"Conducir un vehículo con una o varias puertas abiertas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias, en este caso el vehículo automotor será inmovilizado"
+],
+[
+"B",
+"No informar a la autoridad de tránsito competente el cambio de motor o color de un vehículo. En ambos casos, el vehículo será inmovilizado"
+],
+[
+"C",
+"No portar el equipo de prevención y seguridad establecido en el Código o en la reglamentación correspondiente."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Proveer de combustible un vehículo automotor con el motor encendido"
+],
+[
+"B",
+"Remolcar otro vehículo violando lo dispuesto por el Código"
+],
+[
+"C",
+"Conducir un vehículo con placas falsas."
+],
+[
+"D",
+"No detenerse ante una luz roja o amarilla de semáforo, una señal de 'PARE' o un semáforo intermitente en rojo."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Agarrarse de otro vehículo en circulación"
+],
+[
+"B",
+"Conducir un vehículo con licencia de conducción vencida"
+],
+[
+"C",
+"Conducir un vehículo automotor sin las adaptaciones pertinentes, cuando el conductor padece de limitación física."
+],
+[
+"D",
+"Transitar en sentido contrario al estipulado para la vía, calzada o carril."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Adelantar entre dos vehículos automotores que estén en sus respectivos carriles"
+],
+[
+"B",
+"Utilizar equipos de sonido a volúmenes que incomoden a los pasajeros de un vehículo de servicio público."
+],
+[
+"C",
+"Conducir sin portar el SOAT."
+],
+[
+"D",
+"Presentar licencia de conducción adulterada o ajena lo cual dará lugar a la inmovilización del Vehículo."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No transitar por la derecha de la vía"
+],
+[
+"B",
+"Abandonar un vehículo de servicio público con pasajeros"
+],
+[
+"C",
+"Transitar por sitios restringidos o en horas prohibidas por la autoridad competente."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo, particular o de servicio público, excediendo la capacidad autorizada en la licencia de tránsito o tarjeta de operación"
+],
+[
+"B",
+"Conducir sin portar los seguros ordenados por la Ley. Además el vehículo, será inmovilizado"
+],
+[
+"C",
+"Realizar el cargue o descargue de un vehículo en sitios y horas prohibidas por las autoridades competentes, de acuerdo con lo establecido en las normas correspondientes"
+],
+[
+"D",
+"Lavar vehículos en vía pública, en ríos, en canales, en quebradas, etc."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo con placas falsas"
+],
+[
+"B",
+"Conducir un vehículo escolar sin el permiso respectivo o los distintivos reglamentarios."
+],
+[
+"C",
+"Conducir un vehículo con placas adulteradas, retocadas o alteradas."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Circular con combinaciones de vehículos de dos (02) o más unidades remolcadas, sin autorización especial de autoridad competente."
+],
+[
+"B",
+"No detenerse ante una luz roja o amarilla de semáforo, una señal de pare o un semáforo intermitente en rojo"
+],
+[
+"C",
+"No pagar el peaje en los sitios establecidos."
+],
+[
+"D",
+"Conducir un vehículo con la licencia de conducción vencida."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Conducir realizando maniobras altamente peligrosas e irresponsables que pongan en peligro a las personas o a las cosas"
+],
+[
+"B",
+"No respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea, o por las zonas de protección y seguridad de ella."
+],
+[
+"C",
+"Conducir un vehículo automotor con una sola placa, o sin el permiso vigente expedido por autoridad de tránsito."
+],
+[
+"D",
+"Ninguna de las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 8 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 30 Salarios mínimos legales vigentes."
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 04 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 4 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 45 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 45 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Multa equivalente a 45 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 8 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 45 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 8 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 4 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 45 Salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 30 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 8 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Con multa equivalente a 15 Salarios mínimos legales diarios vigentes"
+],
+[
+"B",
+"Con multa equivalente a 08 Salarios mínimos legales diarios vigentes"
+],
+[
+"C",
+"Con multa equivalente a 04 Salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Multa equivalente a 10 Salarios mínimos legales diarios vigentes"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Cuando el vehículo se encuentra estacionado en zonas prohibidas y su conductor no se encuentra cerca al vehículo."
+],
+[
+"B",
+"Cuando se encuentra el vehículo bloqueando una vía principal y su conductor no está cerca del vehículo"
+],
+[
+"C",
+"Cuando el vehículo se encuentra abandonado en áreas destinadas al espacio público y su conductor no se encuentra cerca al vehículo"
+],
+[
+"D",
+"Todas las anteriores"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Retirar con grúa el vehículo"
+],
+[
+"B",
+"Comparendo y la orden de movilizar el vehículo"
+],
+[
+"C",
+"Comparendo y retirar con grúa el vehículo"
+],
+[
+"D",
+"Ninguna de las anteriores"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"La Respuesta C y D, son Correctas."
+],
+[
+"B",
+"A un taller"
+],
+[
+"C",
+"A un parqueadero autorizado"
+],
+[
+"D",
+"A la Secretaría de Tránsito."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Los honorarios del agente de tránsito."
+],
+[
+"B",
+"El comparendo y el parqueadero."
+],
+[
+"C",
+"Los gastos administrativos que ocasionó su falta"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Venderlo"
+],
+[
+"B",
+"Chatarrizarlo"
+],
+[
+"C",
+"Regalarlo"
+],
+[
+"D",
+"Someterlo a subasta pública"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"A quien tenga licencia de conducción"
+],
+[
+"B",
+"A quien cometa una infracción"
+],
+[
+"C",
+"A quien tenga licencia de Transito."
+],
+[
+"D",
+"Todos los anteriores"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Lo podrán detener."
+],
+[
+"B",
+"El organismo de tránsito iniciará una investigación en su contra."
+],
+[
+"C",
+"Le impondrán un comparendo"
+],
+[
+"D",
+"Todas las anteriores."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Será obligado a abandonar el vehículo"
+],
+[
+"B",
+"Deberá asistir a un curso de seguridad vial en un CIA."
+],
+[
+"C",
+"La Respuesta A y B, son Correctas."
+],
+[
+"D",
+"Se le impondrá un comparendo."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Transporte personas o cosas que disminuyan su visibilidad e incomoden la conducción"
+],
+[
+"B",
+"Estacione vehículos en lugares prohibidos"
+],
+[
+"C",
+"Lleve niños menores de 10 años en el asiento delantero"
+],
+[
+"D",
+"Conduzca un vehículo con la licencia de conducción vencida"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"10 SMLDV"
+],
+[
+"B",
+"20 SMLDV"
+],
+[
+"C",
+"4 SMLDV"
+],
+[
+"D",
+"8 SMLDV"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Multa de 4 SMLDV"
+],
+[
+"B",
+"Amonestación"
+],
+[
+"C",
+"Suspensión de la licencia de conducción"
+],
+[
+"D",
+"Inmovilización del vehículo"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"8 SMLDV"
+],
+[
+"B",
+"10 SMLDV"
+],
+[
+"C",
+"4 SMLDV"
+],
+[
+"D",
+"15 SMLDV"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Vehículos no automotores"
+],
+[
+"B",
+"Vehículos automotores"
+],
+[
+"C",
+"Vehículos de tracción animal"
+],
+[
+"D",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Transitar sin los dispositivos luminosos requeridos"
+],
+[
+"B",
+"Lavar vehículos en vía pública"
+],
+[
+"C",
+"Abandonar un vehículo de servicio público con pasajeros"
+],
+[
+"D",
+"Estacionar un vehículo en sitios prohibidos"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Retención preventiva del vehículo"
+],
+[
+"B",
+"Multa de 4 SMLDV"
+],
+[
+"C",
+"Suspensión de la licencia de conducción"
+],
+[
+"D",
+"Multa de 10 SMLDV"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"De vehículos no automotores"
+],
+[
+"B",
+"De vehículos automotores"
+],
+[
+"C",
+"De vehículos de tracción animal"
+],
+[
+"D",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Con multa de 4 SMLDV"
+],
+[
+"B",
+"Inmovilización del vehículo"
+],
+[
+"C",
+"Amonestación"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo sin llevar consigo la licencia de conducción"
+],
+[
+"B",
+"Remolcar otro vehículo violando lo dispuesto en el Código Nacional de Tránsito"
+],
+[
+"C",
+"Estacionar un vehículo en sitios prohibidos"
+],
+[
+"D",
+"Conducir por la vía férrea o por zonas de protección y seguridad."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"8 SMLDV"
+],
+[
+"B",
+"5 SMLDV"
+],
+[
+"C",
+"4 SMLDV"
+],
+[
+"D",
+"7 SMLDV"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"10 SMLDV"
+],
+[
+"B",
+"12 SMLDV"
+],
+[
+"C",
+"15 SMLDV"
+],
+[
+"D",
+"8 SMLDV"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Multa de 8 SMLDV"
+],
+[
+"C",
+"Inmovilización del vehículo"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+],
+[
+"E",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Conduzca el vehículo sin placas, o sin el permiso vigente expedido por autoridad de tránsito"
+],
+[
+"B",
+"Abandone un vehículo de servicio público con pasajeros"
+],
+[
+"C",
+"Estacione el vehículo en sitios prohibidos"
+],
+[
+"D",
+"Lleve niños menores de 10 años en el asiento delantero"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Multa de 8 SMLDV"
+],
+[
+"C",
+"Inmovilización del vehículo"
+],
+[
+"D",
+"La Respuesta B y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"10 SMLDV"
+],
+[
+"B",
+"12 SMLDV"
+],
+[
+"C",
+"15 SMLDV"
+],
+[
+"D",
+"8 SMLDV"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Conduzca un vehículo con placas falsas"
+],
+[
+"B",
+"Transite por zonas prohibidas"
+],
+[
+"C",
+"Estacione un vehículo en zonas prohibidas"
+],
+[
+"D",
+"No atienda una señal de ceda el paso"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Inmovilización del vehículo"
+],
+[
+"C",
+"Suspensión de la licencia de conducción"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Se le impondrá una sanción de multa de 8 SMLDV"
+],
+[
+"B",
+"Se le suspenderá la licencia de conducción"
+],
+[
+"C",
+"Se le retendrá preventivamente el vehículo"
+],
+[
+"D",
+"Se le impondrá una amonestación"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Transite sin los dispositivos luminosos requeridos"
+],
+[
+"B",
+"Lave el vehículo en vía pública"
+],
+[
+"C",
+"Abandone un vehículo de servicio público con pasajeros"
+],
+[
+"D",
+"Utilice equipos de sonido a volúmenes que incomoden a los pasajeros de un vehículo de servicio público."
+],
+[
+"E",
+"La Respuesta B, C y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Suspensión de la licencia de conducción"
+],
+[
+"C",
+"Multa de 8 SMLDV y la inmovilización del vehículo"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Conduzca el vehículo con propaganda, publicidad o adhesivos en sus vidrios que obstaculicen la visibilidad"
+],
+[
+"B",
+"No transitar por la derecha de la vía"
+],
+[
+"C",
+"No respetar las señales de tránsito"
+],
+[
+"D",
+"Estacionar un vehículo en zonas prohibidas"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Suspensión de la licencia de conducción"
+],
+[
+"C",
+"Multa de 8 SMLDV y la inmovilización del vehículo"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Suspensión de la licencia de conducción"
+],
+[
+"C",
+"Multa de 8 SMLDV y la inmovilización del vehículo"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Conduzca un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado"
+],
+[
+"B",
+"No informar a la autoridad de tránsito competente el cambio de motor o color de un vehículo"
+],
+[
+"C",
+"No transitar por la derecha de la vía"
+],
+[
+"D",
+"No respetar las señales de tránsito"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Amonestación"
+],
+[
+"B",
+"Suspensión de la licencia de conducción"
+],
+[
+"C",
+"Multa de 8 SMLDV"
+],
+[
+"D",
+"Retención preventiva del vehículo"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"No transitar por la derecha de la vía"
+],
+[
+"B",
+"Agarrarse de otro vehículo en circulación"
+],
+[
+"C",
+"Transportar personas o cosas que disminuyan su visibilidad e incomoden la conducción"
+],
+[
+"D",
+"Conducir un vehículo con placas adulteradas"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"No pagar el peaje en los sitios establecidos"
+],
+[
+"B",
+"Transitar por andenes y demás lugares destinados al tránsito de peatones"
+],
+[
+"C",
+"No respetar las señales de tránsito"
+],
+[
+"D",
+"Transitar sin los dispositivos luminosos requeridos"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Transitar sin dispositivos que permitan la parada inmediata o con ellos, pero en estado defectuoso"
+],
+[
+"B",
+"Transitar por zonas restringidas o por vías de alta velocidad como autopistas y arterias"
+],
+[
+"C",
+"Adelantar entre dos (2) vehículos automotores que estén en sus respectivos carriles"
+],
+[
+"D",
+"Conducir por la vía férrea o por zonas de protección y seguridad"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo sin llevar consigo la licencia de conducción"
+],
+[
+"B",
+"Conducir un vehículo con la licencia de conducción vencida"
+],
+[
+"C",
+"Conducir un vehículo sin placas, o sin el permiso vigente expedido por autoridad de tránsito"
+],
+[
+"D",
+"Estacionar un vehículo en sitios prohibidos"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo sin llevar consigo la licencia de conducción"
+],
+[
+"B",
+"Conducir un vehículo con la licencia de conducción vencida"
+],
+[
+"C",
+"No respetar las normas establecidas por la autoridad competente para el tránsito de cortejos fúnebres"
+],
+[
+"D",
+"No informar a la autoridad de tránsito competente el cambio de motor o color de un vehículo."
+],
+[
+"E",
+"La Respuesta A, B y D, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"No informar a la autoridad de tránsito competente el cambio de motor o color de un vehículo. En ambos casos, el vehículo será inmovilizado"
+],
+[
+"B",
+"No pagar el peaje en los sitios establecidos"
+],
+[
+"C",
+"Utilizar equipos de sonido a volúmenes que incomoden a los pasajeros de un vehículo de servicio público"
+],
+[
+"D",
+"No permitir el paso de los vehículos de emergencia"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo con vidrios polarizados, entintados u oscurecidos, sin portar el permiso respectivo"
+],
+[
+"B",
+"Conducir un vehículo con propaganda, publicidad o adhesivos en sus vidrios que obstaculicen la visibilidad"
+],
+[
+"C",
+"No respetar las normas establecidas por la autoridad competente para el tránsito de cortejos fúnebres"
+],
+[
+"D",
+"Adelantar a otro vehículo en berma, túnel, puente, curva, pasos a nivel y cruces no regulados o al aproximarse a la cima de una cuesta o donde la señal de tránsito correspondiente lo indique"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Remolcar otro vehículo violando lo dispuesto por el Código"
+],
+[
+"B",
+"Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado"
+],
+[
+"C",
+"Permitir que en un vehículo de servicio público para transporte de pasajeros se lleven animales u objetos que incomoden a los pasajeros"
+],
+[
+"D",
+"Estacionar un vehículo en sitios prohibidos"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Abandonar un vehículo de servicio público con pasajeros"
+],
+[
+"B",
+"Conducir un vehículo de transporte público individual de pasajeros sin cumplir con lo estipulado en la Ley"
+],
+[
+"C",
+"Realizar el cargue o descargue de un vehículo en sitios y horas prohibidas por las autoridades competentes, de acuerdo con lo establecido en las normas correspondientes"
+],
+[
+"D",
+"Transitar, cuando hubiere más de un carril, por el carril izquierdo de la vía a velocidad que entorpezca el tránsito de los demás vehículos"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Transportar carne, pescado o alimentos fácilmente corruptibles, en vehículos que no cumplan las condiciones fijadas por el Ministerio de Transporte. Además, se le suspenderá la licencia de conducción por el término de tres (3) meses, sin perjuicio de lo que establezcan las autoridades sanitarias"
+],
+[
+"B",
+"Lavar vehículos en vía pública, en ríos, en canales, en quebradas, etc."
+],
+[
+"C",
+"Conducir por la vía férrea o por zonas de protección y seguridad"
+],
+[
+"D",
+"Llevar niños menores de diez (10) años en el asiento delantero"
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Presentar licencia de conducción adulterada o ajena lo cual dará lugar a la inmovilización del vehículo"
+],
+[
+"B",
+"La Respuesta A y C, son Correctas."
+],
+[
+"C",
+"Transitar sin los dispositivos luminosos requeridos"
+],
+[
+"D",
+"No detenerse ante una luz roja o amarilla de semáforo, una señal de    o un semáforo intermitente en rojo"
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Bloquear una calzada o intersección con un vehículo."
+],
+[
+"B",
+"Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por el código, las señales de peligro reglamentarias."
+],
+[
+"C",
+"Conducir un vehículo sobre aceras, plazas, vías peatonales, separadores, bermas, demarcaciones de canalización, zonas verdes o vías especiales para vehículos no motorizados."
+],
+[
+"D",
+"No reducir la velocidad según lo indicado por el Código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de la institución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Remolcar otro vehículo violando lo dispuesto por el Código."
+],
+[
+"B",
+"Dejar de señalizar con las luces direccionales o mediante señales de mano y con la debida anticipación, la maniobra de giro o de cambio de carril."
+],
+[
+"C",
+"Transitar sin los dispositivos luminosos requeridos o sin los elementos determinados en el Código."
+],
+[
+"D",
+"No respetar las señales de detención en el cruce de una línea férrea, o conducir por la vía férrea o por las zonas de protección y seguridad de ella."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo con una o varias puertas abiertas."
+],
+[
+"B",
+"Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado."
+],
+[
+"C",
+"No portar el equipo de prevención y seguridad establecido en el Código o en la reglamentación correspondiente."
+],
+[
+"D",
+"Proveer de combustible un vehículo automotor con el motor encendido."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo automotor sin las adaptaciones pertinentes, cuando el conductor padece de limitación física."
+],
+[
+"B",
+"Transitar por sitios restringidos o en horas prohibidas por la autoridad competente."
+],
+[
+"C",
+"Conducir un vehículo, particular o de servicio público, excediendo la capacidad autorizada en la licencia de tránsito o tarjeta de operación."
+],
+[
+"D",
+"Conducir un vehículo escolar sin el permiso respectivo o los distintivos reglamentarios."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Conducir un vehículo autorizado para prestar servicio público con el taxímetro dañado, con los sellos rotos o etiquetas adhesivas con calibración vencida o adulterada o cuando se carezca de él, o cuando aún teniéndolo, no cumpla con las normas mínimas de calidad y seguridad exigidas por la autoridad competente o éste no esté en funcionamiento."
+],
+[
+"B",
+"Dejar o recoger pasajeros en sitios distintos de los demarcados por las autoridades."
+],
+[
+"C",
+"Proveer combustible a vehículos de servicio público con pasajeros a bordo."
+],
+[
+"D",
+"Conducir un vehículo de carga en que se transporten materiales de construcción o a granel sin las medidas de protección, higiene y seguridad ordenadas. Además el vehículo será inmovilizado."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Por reincidir en la violación de la misma norma de tránsito en un periodo no superior a un año."
+],
+[
+"B",
+"No asegurar la carga para evitar que se caigan en la vía las cosas transportadas. Además, se inmovilizará el vehículo hasta tanto se remedie la situación."
+],
+[
+"C",
+"Transportar carga de dimensiones superiores a las autorizadas sin cumplir con los requisitos exigidos. Además, el vehículo será inmovilizado hasta que se remedie dicha situación."
+],
+[
+"D",
+"Bloquear una calzada o intersección con un vehículo"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Transitar en sentido contrario al estipulado para la vía, calzada o carril."
+],
+[
+"B",
+"No realizar la revisión técnico-mecánica en el plazo legal establecido o cuando el vehículo no se encuentre en adecuadas condiciones técnico-mecánicas o de emisión de gases, aún cuando porte los certificados correspondientes."
+],
+[
+"C",
+"No detenerse ante una luz roja o amarilla de semáforo, una señal de \"PARE\" o un semáforo intermitente en rojo."
+],
+[
+"D",
+"Conducir un vehículo sobre aceras, plazas, vías peatonales, separadores, bermas, demarcaciones de canalización, zonas verdes o vías especiales para vehículos no motorizados."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Una orden de pago de la multa que debe ser cancelada a la secretaria de tránsito del lugar donde se cometió la infracción."
+],
+[
+"B",
+"Una orden de comparecer ante las autoridades de tránsito de la localidad donde se cometió la infracción, con el fin de rendir descargos e iniciar la investigación con sus recursos."
+],
+[
+"C",
+"El informe del policía o agente de tránsito que conoció la infracción para el pago de la respectiva multa."
+],
+[
+"D",
+"Un requisito para el control sobre el cumplimiento de las normas de tránsito."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Los agentes y policías de tránsito de la jurisdicción o La policía de carreteras"
+],
+[
+"B",
+"Los inspectores de aduanas"
+],
+[
+"C",
+"Cualquier autoridad de tránsito mientras asume la autoridad competente"
+],
+[
+"D",
+"Las autoridades municipales o departamentales."
+],
+[
+"E",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "E"
+},
+{
+"options": [
+[
+"A",
+"Arresto"
+],
+[
+"B",
+"Prisión"
+],
+[
+"C",
+"Demolición"
+],
+[
+"D",
+"Multa"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Cuando tengan más de diez años."
+],
+[
+"B",
+"Todo niño puede viajar en la parte delantera si usa el cinturón de seguridad"
+],
+[
+"C",
+"De dos años en adelante."
+],
+[
+"D",
+"Ninguno de los anteriores."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"En la parte delantera con una silla especial atada al cinturón de seguridad"
+],
+[
+"B",
+"En la parte posterior haciendo uso del sistema de retención infantil y cumpliendo con la normatividad vigente."
+],
+[
+"C",
+"En la parte posterior con un porta bebe en el piso."
+],
+[
+"D",
+"Todos los anteriores."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Multa equivalente a treinta (30) salarios mínimos legales diarios."
+],
+[
+"B",
+"Multa equivalente a cuarenta (40) salarios mínimos legales diarios."
+],
+[
+"C",
+"Multa equivalente a ocho (8) salarios mínimos legales diarios."
+],
+[
+"D",
+"Multa equivalente a quince (15) salarios mínimos legales diarios"
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Por disposición de las autoridades de tránsito, basada en imposibilidad transitoria física o mental para conducir, soportado en un certificado médico."
+],
+[
+"B",
+"Por decisión judicial"
+],
+[
+"C",
+"Por encontrarse en flagrante estado de embriaguez o bajo los efectos de drogas alucinógenas determinado por autoridad competente."
+],
+[
+"D",
+"Por muerte del titular"
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Por reincidencia en la prestación del servicio público de transporte con vehículos particulares sin justa causa."
+],
+[
+"B",
+"Por prestar el servicio público de transporte con vehículos particulares, salvo cuando el orden público lo justifique, previa decisión en tal sentido de la autoridad respectiva."
+],
+[
+"C",
+"Reincidencia al encontrarse conduciendo en estado de embriaguez o bajo el efecto de drogas alucinógenas determinado por autoridad competente."
+],
+[
+"D",
+"La Respuesta A y C, son Correctas."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Por disposición de las autoridades de tránsito, basada en imposibilidad transitoria física o mental para conducir, soportado en un certificado médico."
+],
+[
+"B",
+"Por disposición de las autoridades de tránsito, basada en imposibilidad permanente física o mental para conducir, soportado en un certificado médico."
+],
+[
+"C",
+"Por reincidir en la violación de la misma norma de tránsito en un periodo no superior a un año."
+],
+[
+"D",
+"Por encontrarse en flagrante estado de embriaguez o bajo los efectos de drogas alucinógenas determinado por autoridad competente."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Guiar un vehículo sin haber obtenido la licencia de conducción correspondiente. Además, el vehículo será inmovilizado en el lugar de los hechos, hasta que éste sea retirado por una persona autorizada por el infractor con licencia de conducción."
+],
+[
+"B",
+"Conducir realizando maniobras altamente peligrosas e irresponsables que pongan en peligro a las personas o las cosas."
+],
+[
+"C",
+"Usar sistemas móviles de comunicación o teléfonos instalados en los vehículos al momento de conducir, exceptuando si éstos son utilizados con accesorios o equipos auxiliares que permitan tener las manos libres."
+],
+[
+"D",
+"Conducir un vehículo sin luces o sin los dispositivos luminosos de posición, direccionales o de freno, o con alguna de ellas dañada, en las horas o circunstancias en que lo exige el Código. Además, el vehículo será inmovilizado, cuando no le funcionen dos (2) o más de estas luces."
+]
+],
+"answer": "C"
+},
+{
+"options": [
+[
+"A",
+"Transportar pasajeros en el platón de una camioneta picó o en la plataforma de un vehículo de carga, trátese de furgón o plataforma de estacas."
+],
+[
+"B",
+"Permitir el servicio público de pasajeros que no tenga las salidas de emergencia exigidas. En este caso, la multa se impondrá solidariamente a la empresa a la cual esté afiliado y al propietario. Si se tratare de vehículo particular, se impondrá la sanción solidariamente al propietario."
+],
+[
+"C",
+"Transportar en el mismo vehículo y al mismo tiempo personas y sustancias peligrosas como explosivos, tóxicos, radiactivos, combustibles no autorizados etc. En estos casos se suspenderá la licencia por un (1) año y por dos (2) años cada vez que reincida. El vehículo será inmovilizado por un (1) año cada vez."
+],
+[
+"D",
+"Conducir un vehículo que, sin la debida autorización, se destine a un servicio diferente de aquel para el cual tiene licencia de tránsito. Además, el vehículo será inmovilizado por primera vez, por el término de cinco días, por segunda vez veinte días y por tercera vez cuarenta días."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Será obligado a abandonar el automotor y deberá asistir a un curso de seguridad vial."
+],
+[
+"B",
+"Se le impondrá una multa equivalente a cuatro (4) salarios mínimos legales diarios vigentes."
+],
+[
+"C",
+"Se le impondrá una multa equivalente a ocho (8) salarios mínimos legales diarios vigentes."
+],
+[
+"D",
+"Se le impondrá una pena de arresto de uno (1) a seis (6) días."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Una sanción de diez (10) salarios mínimos legales diarios vigentes."
+],
+[
+"B",
+"Una sanción de quince (15) salarios mínimos legales diarios vigentes."
+],
+[
+"C",
+"Una sanción de cinco (5) salarios mínimos legales diarios vigentes"
+],
+[
+"D",
+"Una sanción de veinte (20) salarios mínimos legales diarios vigentes."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Estacionar un vehículo sin tomar las debidas precauciones o sin colocar a la distancia señalada por este código, las señales de peligro reglamentarias."
+],
+[
+"B",
+"Realizar el cargue o descargue de un vehículo en sitios y horas prohibidas por las autoridades competentes, de acuerdo con lo establecido en las normas correspondientes."
+],
+[
+"C",
+"No reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de la institución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros."
+],
+[
+"D",
+"No utilizar el cinturón de seguridad por parte de los ocupantes del vehículo."
+]
+],
+"answer": "B"
+},
+{
+"options": [
+[
+"A",
+"Remolcar otro vehículo violando lo dispuesto por este código."
+],
+[
+"B",
+"Conducir un vehículo de servicio público que no lleve el aviso de tarifas oficiales en condiciones de fácil lectura para los pasajeros o poseer este aviso deteriorado o adulterado."
+],
+[
+"C",
+"Permitir que en un vehículo de servicio público para transporte de pasajeros se lleven animales u objetos que incomoden a los pasajeros."
+],
+[
+"D",
+"No reducir la velocidad según lo indicado por este código, cuando transite por un cruce escolar en los horarios y días de funcionamiento de la institución educativa. Así mismo, cuando transite por cruces de hospitales o terminales de pasajeros."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Serán amonestados por la autoridad de tránsito competente y deberán asistir a un curso formativo dictado por las autoridades de tránsito."
+],
+[
+"B",
+"Se les impondrá una multa de cuatro (4) salarios mínimos legales diarios vigentes."
+],
+[
+"C",
+"Se les impondrá una sanción de arresto por el término de setenta y dos (72) horas"
+],
+[
+"D",
+"Se les impondrá una multa de Un (1) salario mínimo legal diario vigente y deberán asistir a un curso formativo dictado por un CIA."
+]
+],
+"answer": "D"
+},
+{
+"options": [
+[
+"A",
+"Ordenar la detención de la marcha del vehículo y Aplicar al conductor la orden de comparendo para que se acoja al Artículo 136 sobre reducción de multas."
+],
+[
+"B",
+"Conciliar con el conductor"
+],
+[
+"C",
+"Impedir que el vehículo continué su marcha."
+],
+[
+"D",
+"Ninguna de las anteriores respuestas es correcta."
+]
+],
+"answer": "A"
+},
+{
+"options": [
+[
+"A",
+"Aceptar la comisión de la infracción y cancelar el cien por ciento (100%) del valor de la multa dentro de los diez (10) días hábiles siguientes a la orden de comparendo."
+],
+[
+"B",
+"Una vez surtida la orden de comparendo, si el inculpado acepta la comisión de la infracción, podrá sin necesidad de otra actuación administrativa, cancelar el cincuenta por ciento (50%) del valor de la multa dentro de los cinco días siguientes a la orden de comparendo, igualmente, o podrá cancelar el setenta y cinco (75%) del valor de la multa, si paga dentro de los veinte días siguientes a la orden de comparendo, en estos casos deberá asistir obligatoriamente a un curso sobre normas de tránsito en el CIA, donde se cancelará un 25% y el excedente se pagará al organismo de tránsito."
+],
+[
+"C",
+"No aceptar la comisión de la infracción y comparecer dentro de los treinta (30) días siguientes ante el funcionario de tránsito en audiencia pública para que este decrete las pruebas conducentes que le sean solicitadas y las de oficio que considere útiles."
+],
+[
+"D",
+"Ninguna respuesta es correcta."
+]
+],
+"answer": "B"
+}
+]
+}
